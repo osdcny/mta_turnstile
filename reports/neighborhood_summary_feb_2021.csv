@@ -1,0 +1,573 @@
+neighborhood,period,entries_usage_yoy,exits_usage_yoy
+Astoria & Long Island City ,4/1/2020,0.078000712,0.117464351
+Astoria & Long Island City ,5/1/2020,0.100522913,0.14873798
+Astoria & Long Island City ,6/1/2020,0.181805868,0.254448503
+Astoria & Long Island City ,7/1/2020,0.260653887,0.357217805
+Astoria & Long Island City ,8/1/2020,0.272065832,0.376871461
+Astoria & Long Island City ,9/1/2020,0.305874681,0.411523269
+Astoria & Long Island City ,10/1/2020,0.323015435,0.446287258
+Astoria & Long Island City ,11/1/2020,0.308481434,0.412443744
+Astoria & Long Island City ,12/1/2020,0.305667245,0.420864617
+Astoria & Long Island City ,1/1/2021,0.27922718,0.377461341
+Astoria & Long Island City ,2/1/2021,0.276158336,0.392011832
+"Battery Park City, Greenwich Village & Soho ",4/1/2020,0.038979127,0.058963708
+"Battery Park City, Greenwich Village & Soho ",5/1/2020,0.049853167,0.073041545
+"Battery Park City, Greenwich Village & Soho ",6/1/2020,0.092890873,0.125595844
+"Battery Park City, Greenwich Village & Soho ",7/1/2020,0.134263939,0.178384665
+"Battery Park City, Greenwich Village & Soho ",8/1/2020,0.155889919,0.208644539
+"Battery Park City, Greenwich Village & Soho ",9/1/2020,0.183769091,0.244182791
+"Battery Park City, Greenwich Village & Soho ",10/1/2020,0.19173564,0.255725338
+"Battery Park City, Greenwich Village & Soho ",11/1/2020,0.18711626,0.256326767
+"Battery Park City, Greenwich Village & Soho ",12/1/2020,0.180577189,0.245639922
+"Battery Park City, Greenwich Village & Soho ",1/1/2021,0.173811901,0.238883436
+"Battery Park City, Greenwich Village & Soho ",2/1/2021,0.172997312,0.241008862
+Bay Ridge & Dyker Heights ,4/1/2020,0.102361566,0.16569459
+Bay Ridge & Dyker Heights ,5/1/2020,0.126593808,0.214588142
+Bay Ridge & Dyker Heights ,6/1/2020,0.221161292,0.39258199
+Bay Ridge & Dyker Heights ,7/1/2020,0.308856771,0.538429327
+Bay Ridge & Dyker Heights ,8/1/2020,0.349425336,0.534111234
+Bay Ridge & Dyker Heights ,9/1/2020,0.376079413,0.523940679
+Bay Ridge & Dyker Heights ,10/1/2020,0.368230152,0.489490836
+Bay Ridge & Dyker Heights ,11/1/2020,0.384839112,0.517400623
+Bay Ridge & Dyker Heights ,12/1/2020,0.358776052,0.495157636
+Bay Ridge & Dyker Heights ,1/1/2021,0.341448402,0.481617937
+Bay Ridge & Dyker Heights ,2/1/2021,0.347472923,0.534115575
+"Bedford Park, Fordham North & Norwood ",4/1/2020,0.174512926,0.270164953
+"Bedford Park, Fordham North & Norwood ",5/1/2020,0.204100162,0.321931257
+"Bedford Park, Fordham North & Norwood ",6/1/2020,0.289121148,0.425185749
+"Bedford Park, Fordham North & Norwood ",7/1/2020,0.353065934,0.510237415
+"Bedford Park, Fordham North & Norwood ",8/1/2020,0.357180447,0.534437881
+"Bedford Park, Fordham North & Norwood ",9/1/2020,0.399921579,0.535851195
+"Bedford Park, Fordham North & Norwood ",10/1/2020,0.418896671,0.566042432
+"Bedford Park, Fordham North & Norwood ",11/1/2020,0.417914113,0.58249278
+"Bedford Park, Fordham North & Norwood ",12/1/2020,0.426988062,0.571591363
+"Bedford Park, Fordham North & Norwood ",1/1/2021,0.400750461,0.537127964
+"Bedford Park, Fordham North & Norwood ",2/1/2021,0.381399233,0.505240198
+Bedford-Stuyvesant ,4/1/2020,0.112633474,0.213656784
+Bedford-Stuyvesant ,5/1/2020,0.125653808,0.219122133
+Bedford-Stuyvesant ,6/1/2020,0.198976402,0.322092553
+Bedford-Stuyvesant ,7/1/2020,0.257696604,0.383208281
+Bedford-Stuyvesant ,8/1/2020,0.284471326,0.414989419
+Bedford-Stuyvesant ,9/1/2020,0.312958606,0.434564939
+Bedford-Stuyvesant ,10/1/2020,0.326800174,0.446728277
+Bedford-Stuyvesant ,11/1/2020,0.312395811,0.444303619
+Bedford-Stuyvesant ,12/1/2020,0.320973595,0.473701907
+Bedford-Stuyvesant ,1/1/2021,0.286002879,0.436172335
+Bedford-Stuyvesant ,2/1/2021,0.285762761,0.450310675
+"Belmont, Crotona Park East & East Tremont ",4/1/2020,0.18102865,0.282278316
+"Belmont, Crotona Park East & East Tremont ",5/1/2020,0.206125622,0.314182598
+"Belmont, Crotona Park East & East Tremont ",6/1/2020,0.271385332,0.40850629
+"Belmont, Crotona Park East & East Tremont ",7/1/2020,0.336068957,0.50532151
+"Belmont, Crotona Park East & East Tremont ",8/1/2020,0.340787731,0.518599336
+"Belmont, Crotona Park East & East Tremont ",9/1/2020,0.388647112,0.535898985
+"Belmont, Crotona Park East & East Tremont ",10/1/2020,0.395696081,0.547879198
+"Belmont, Crotona Park East & East Tremont ",11/1/2020,0.418062413,0.615001986
+"Belmont, Crotona Park East & East Tremont ",12/1/2020,0.406774187,0.574276509
+"Belmont, Crotona Park East & East Tremont ",1/1/2021,0.379603515,0.523552533
+"Belmont, Crotona Park East & East Tremont ",2/1/2021,0.360817648,0.492161946
+Bensonhurst & Bath Beach ,4/1/2020,0.111275325,0.181747893
+Bensonhurst & Bath Beach ,5/1/2020,0.143021187,0.233905052
+Bensonhurst & Bath Beach ,6/1/2020,0.255404915,0.372961726
+Bensonhurst & Bath Beach ,7/1/2020,0.327634804,0.403596911
+Bensonhurst & Bath Beach ,8/1/2020,0.353806986,0.426288209
+Bensonhurst & Bath Beach ,9/1/2020,0.403314201,0.46105213
+Bensonhurst & Bath Beach ,10/1/2020,0.396823314,0.431299287
+Bensonhurst & Bath Beach ,11/1/2020,0.407249556,0.461183675
+Bensonhurst & Bath Beach ,12/1/2020,0.394438468,0.478680671
+Bensonhurst & Bath Beach ,1/1/2021,0.368761831,0.440101991
+Bensonhurst & Bath Beach ,2/1/2021,0.35669218,0.44832596
+"Borough Park, Kensington & Ocean Parkway ",4/1/2020,0.146504244,0.194962313
+"Borough Park, Kensington & Ocean Parkway ",5/1/2020,0.175495221,0.240688355
+"Borough Park, Kensington & Ocean Parkway ",6/1/2020,0.290412271,0.390078072
+"Borough Park, Kensington & Ocean Parkway ",7/1/2020,0.35339832,0.425841806
+"Borough Park, Kensington & Ocean Parkway ",8/1/2020,0.375224032,0.454251471
+"Borough Park, Kensington & Ocean Parkway ",9/1/2020,0.396092947,0.475012101
+"Borough Park, Kensington & Ocean Parkway ",10/1/2020,0.417456549,0.476136172
+"Borough Park, Kensington & Ocean Parkway ",11/1/2020,0.394688027,0.4643377
+"Borough Park, Kensington & Ocean Parkway ",12/1/2020,0.40841241,0.488624881
+"Borough Park, Kensington & Ocean Parkway ",1/1/2021,0.377587561,0.45608149
+"Borough Park, Kensington & Ocean Parkway ",2/1/2021,0.37451602,0.44385876
+"Briarwood, Fresh Meadows & Hillcrest ",4/1/2020,0.14578675,0.18187602
+"Briarwood, Fresh Meadows & Hillcrest ",5/1/2020,0.175939078,0.211087189
+"Briarwood, Fresh Meadows & Hillcrest ",6/1/2020,0.265356862,0.285647989
+"Briarwood, Fresh Meadows & Hillcrest ",7/1/2020,0.362458996,0.374734223
+"Briarwood, Fresh Meadows & Hillcrest ",8/1/2020,0.389322543,0.435177568
+"Briarwood, Fresh Meadows & Hillcrest ",9/1/2020,0.566232347,0.568938582
+"Briarwood, Fresh Meadows & Hillcrest ",10/1/2020,0.861319714,0.72274983
+"Briarwood, Fresh Meadows & Hillcrest ",11/1/2020,0.499704018,0.52585306
+"Briarwood, Fresh Meadows & Hillcrest ",12/1/2020,0.458591011,0.496005551
+"Briarwood, Fresh Meadows & Hillcrest ",1/1/2021,0.432317187,0.477414238
+"Briarwood, Fresh Meadows & Hillcrest ",2/1/2021,0.405556103,0.46227277
+Brighton Beach & Coney Island ,4/1/2020,0.149086413,0.203577882
+Brighton Beach & Coney Island ,5/1/2020,0.178742124,0.24905731
+Brighton Beach & Coney Island ,6/1/2020,0.253449473,0.340949005
+Brighton Beach & Coney Island ,7/1/2020,0.303505221,0.408607074
+Brighton Beach & Coney Island ,8/1/2020,0.325783567,0.432236855
+Brighton Beach & Coney Island ,9/1/2020,0.40398404,0.49295721
+Brighton Beach & Coney Island ,10/1/2020,0.411751994,0.499748081
+Brighton Beach & Coney Island ,11/1/2020,0.422739026,0.537658699
+Brighton Beach & Coney Island ,12/1/2020,0.434655708,0.564069401
+Brighton Beach & Coney Island ,1/1/2021,0.399039033,0.520594777
+Brighton Beach & Coney Island ,2/1/2021,0.388379996,0.494166745
+Brooklyn Heights & Fort Greene ,4/1/2020,0.069948846,0.109157699
+Brooklyn Heights & Fort Greene ,5/1/2020,0.085133791,0.134449003
+Brooklyn Heights & Fort Greene ,6/1/2020,0.145585932,0.212110969
+Brooklyn Heights & Fort Greene ,7/1/2020,0.202531905,0.289339305
+Brooklyn Heights & Fort Greene ,8/1/2020,0.220601443,0.317231342
+Brooklyn Heights & Fort Greene ,9/1/2020,0.247851129,0.343547248
+Brooklyn Heights & Fort Greene ,10/1/2020,0.261245491,0.361820081
+Brooklyn Heights & Fort Greene ,11/1/2020,0.247980867,0.349563164
+Brooklyn Heights & Fort Greene ,12/1/2020,0.254385226,0.364464939
+Brooklyn Heights & Fort Greene ,1/1/2021,0.231475381,0.340102359
+Brooklyn Heights & Fort Greene ,2/1/2021,0.22374459,0.32255193
+Brownsville & Ocean Hill ,4/1/2020,0.20576095,0.288116995
+Brownsville & Ocean Hill ,5/1/2020,0.223005112,0.316977584
+Brownsville & Ocean Hill ,6/1/2020,0.307905284,0.42251358
+Brownsville & Ocean Hill ,7/1/2020,0.376178628,0.510198371
+Brownsville & Ocean Hill ,8/1/2020,0.36236792,0.49547974
+Brownsville & Ocean Hill ,9/1/2020,0.388642039,0.504447019
+Brownsville & Ocean Hill ,10/1/2020,0.405134466,0.513538479
+Brownsville & Ocean Hill ,11/1/2020,0.415955671,0.535104478
+Brownsville & Ocean Hill ,12/1/2020,0.418198122,0.547230166
+Brownsville & Ocean Hill ,1/1/2021,0.376004505,0.492434493
+Brownsville & Ocean Hill ,2/1/2021,0.367722424,0.47084718
+Bushwick ,4/1/2020,0.106845232,0.186492606
+Bushwick ,5/1/2020,0.141185108,0.228329299
+Bushwick ,6/1/2020,0.22657437,0.336715766
+Bushwick ,7/1/2020,0.315140578,0.451670285
+Bushwick ,8/1/2020,0.33672831,0.472959622
+Bushwick ,9/1/2020,0.375751305,0.51444623
+Bushwick ,10/1/2020,0.375793093,0.529635145
+Bushwick ,11/1/2020,0.361352846,0.513156061
+Bushwick ,12/1/2020,0.3631003,0.531944326
+Bushwick ,1/1/2021,0.341996264,0.503536747
+Bushwick ,2/1/2021,0.330087215,0.499953584
+Canarsie & Flatlands ,4/1/2020,0.09854537,0.167789812
+Canarsie & Flatlands ,5/1/2020,0.097753402,0.134561573
+Canarsie & Flatlands ,6/1/2020,0.168007772,0.142839026
+Canarsie & Flatlands ,7/1/2020,0.268972643,0.202531827
+Canarsie & Flatlands ,8/1/2020,0.270272822,0.186930695
+Canarsie & Flatlands ,9/1/2020,0.286430742,0.156528552
+Canarsie & Flatlands ,10/1/2020,0.370186855,0.158985747
+Canarsie & Flatlands ,11/1/2020,0.350570571,0.133145374
+Canarsie & Flatlands ,12/1/2020,0.336639742,0.148173722
+Canarsie & Flatlands ,1/1/2021,0.27078792,0.36866117
+Canarsie & Flatlands ,2/1/2021,0.241453238,0.524524977
+"Castle Hill, Clason Point & Parkchester ",4/1/2020,0.166573209,0.218680444
+"Castle Hill, Clason Point & Parkchester ",5/1/2020,0.203852552,0.25991365
+"Castle Hill, Clason Point & Parkchester ",6/1/2020,0.282539011,0.364930521
+"Castle Hill, Clason Point & Parkchester ",7/1/2020,0.35100189,0.449907316
+"Castle Hill, Clason Point & Parkchester ",8/1/2020,0.358867794,0.460892828
+"Castle Hill, Clason Point & Parkchester ",9/1/2020,0.40980076,0.51324849
+"Castle Hill, Clason Point & Parkchester ",10/1/2020,0.424700341,0.514963015
+"Castle Hill, Clason Point & Parkchester ",11/1/2020,0.419328167,0.496816138
+"Castle Hill, Clason Point & Parkchester ",12/1/2020,0.42553057,0.531395725
+"Castle Hill, Clason Point & Parkchester ",1/1/2021,0.391005972,0.48002045
+"Castle Hill, Clason Point & Parkchester ",2/1/2021,0.381388677,0.467668268
+Central Harlem ,4/1/2020,0.119292165,0.222278965
+Central Harlem ,5/1/2020,0.131680309,0.245118327
+Central Harlem ,6/1/2020,0.190596197,0.328940186
+Central Harlem ,7/1/2020,0.251278251,0.419261751
+Central Harlem ,8/1/2020,0.310357703,0.51984083
+Central Harlem ,9/1/2020,0.313346776,0.495276251
+Central Harlem ,10/1/2020,0.322026522,0.478938625
+Central Harlem ,11/1/2020,0.327239927,0.521570906
+Central Harlem ,12/1/2020,0.323606625,0.515663048
+Central Harlem ,1/1/2021,0.298203139,0.480500088
+Central Harlem ,2/1/2021,0.295020967,0.471325984
+"Chelsea, Clinton & Midtown Business District ",4/1/2020,0.043839846,0.063350185
+"Chelsea, Clinton & Midtown Business District ",5/1/2020,0.056811153,0.080042149
+"Chelsea, Clinton & Midtown Business District ",6/1/2020,0.103753928,0.137040414
+"Chelsea, Clinton & Midtown Business District ",7/1/2020,0.154583777,0.200547089
+"Chelsea, Clinton & Midtown Business District ",8/1/2020,0.170028602,0.22249018
+"Chelsea, Clinton & Midtown Business District ",9/1/2020,0.199670611,0.258935698
+"Chelsea, Clinton & Midtown Business District ",10/1/2020,0.201751927,0.261620739
+"Chelsea, Clinton & Midtown Business District ",11/1/2020,0.197046804,0.25964939
+"Chelsea, Clinton & Midtown Business District ",12/1/2020,0.196461644,0.265430614
+"Chelsea, Clinton & Midtown Business District ",1/1/2021,0.189381445,0.253550725
+"Chelsea, Clinton & Midtown Business District ",2/1/2021,0.187906294,0.252502346
+Chinatown & Lower East Side ,4/1/2020,0.070672076,0.109272534
+Chinatown & Lower East Side ,5/1/2020,0.088686559,0.127855301
+Chinatown & Lower East Side ,6/1/2020,0.150933411,0.204853766
+Chinatown & Lower East Side ,7/1/2020,0.218090227,0.284085288
+Chinatown & Lower East Side ,8/1/2020,0.24855836,0.331502022
+Chinatown & Lower East Side ,9/1/2020,0.272248638,0.380953247
+Chinatown & Lower East Side ,10/1/2020,0.277252928,0.372615207
+Chinatown & Lower East Side ,11/1/2020,0.27573682,0.372719931
+Chinatown & Lower East Side ,12/1/2020,0.257702507,0.36041138
+Chinatown & Lower East Side ,1/1/2021,0.243769784,0.348927976
+Chinatown & Lower East Side ,2/1/2021,0.245861781,0.356265247
+"Co-op City, Pelham Bay & Schuylerville ",4/1/2020,0.152818005,0.228412938
+"Co-op City, Pelham Bay & Schuylerville ",5/1/2020,0.171271022,0.27433218
+"Co-op City, Pelham Bay & Schuylerville ",6/1/2020,0.247407512,0.378629518
+"Co-op City, Pelham Bay & Schuylerville ",7/1/2020,0.321101161,0.481126035
+"Co-op City, Pelham Bay & Schuylerville ",8/1/2020,0.327821814,0.467150887
+"Co-op City, Pelham Bay & Schuylerville ",9/1/2020,0.349316165,0.500683724
+"Co-op City, Pelham Bay & Schuylerville ",10/1/2020,0.376725419,0.548679745
+"Co-op City, Pelham Bay & Schuylerville ",11/1/2020,0.365215,0.507512014
+"Co-op City, Pelham Bay & Schuylerville ",12/1/2020,0.348058812,0.490649278
+"Co-op City, Pelham Bay & Schuylerville ",1/1/2021,0.329604879,0.480047479
+"Co-op City, Pelham Bay & Schuylerville ",2/1/2021,0.329293435,0.474506733
+"Concourse, Highbridge & Mount Eden ",4/1/2020,0.198317973,0.291574965
+"Concourse, Highbridge & Mount Eden ",5/1/2020,0.227597206,0.333049003
+"Concourse, Highbridge & Mount Eden ",6/1/2020,0.311468174,0.438011596
+"Concourse, Highbridge & Mount Eden ",7/1/2020,0.366521292,0.510906706
+"Concourse, Highbridge & Mount Eden ",8/1/2020,0.366554749,0.526479297
+"Concourse, Highbridge & Mount Eden ",9/1/2020,0.414659735,0.554641302
+"Concourse, Highbridge & Mount Eden ",10/1/2020,0.425716464,0.581766748
+"Concourse, Highbridge & Mount Eden ",11/1/2020,0.42424818,0.562266971
+"Concourse, Highbridge & Mount Eden ",12/1/2020,0.443251044,0.571278175
+"Concourse, Highbridge & Mount Eden ",1/1/2021,0.3991378,0.539304529
+"Concourse, Highbridge & Mount Eden ",2/1/2021,0.378092989,0.542422666
+Crown Heights North & Prospect Heights ,4/1/2020,0.13020618,0.200606083
+Crown Heights North & Prospect Heights ,5/1/2020,0.149454671,0.230066214
+Crown Heights North & Prospect Heights ,6/1/2020,0.21079444,0.314040464
+Crown Heights North & Prospect Heights ,7/1/2020,0.273553684,0.395991333
+Crown Heights North & Prospect Heights ,8/1/2020,0.279493541,0.415167358
+Crown Heights North & Prospect Heights ,9/1/2020,0.323657623,0.448484336
+Crown Heights North & Prospect Heights ,10/1/2020,0.335986782,0.468315766
+Crown Heights North & Prospect Heights ,11/1/2020,0.343258525,0.481701166
+Crown Heights North & Prospect Heights ,12/1/2020,0.359766835,0.495707996
+Crown Heights North & Prospect Heights ,1/1/2021,0.321260397,0.445264736
+Crown Heights North & Prospect Heights ,2/1/2021,0.321872785,0.451705681
+"Crown Heights South, Prospect Lefferts & Wingate ",4/1/2020,0.124277269,0.153680182
+"Crown Heights South, Prospect Lefferts & Wingate ",5/1/2020,0.143106938,0.173898785
+"Crown Heights South, Prospect Lefferts & Wingate ",6/1/2020,0.218277838,0.258792521
+"Crown Heights South, Prospect Lefferts & Wingate ",7/1/2020,0.275270417,0.342090857
+"Crown Heights South, Prospect Lefferts & Wingate ",8/1/2020,0.294232109,0.3801487
+"Crown Heights South, Prospect Lefferts & Wingate ",9/1/2020,0.328193916,0.406345507
+"Crown Heights South, Prospect Lefferts & Wingate ",10/1/2020,0.343721194,0.430226014
+"Crown Heights South, Prospect Lefferts & Wingate ",11/1/2020,0.343499012,0.439963743
+"Crown Heights South, Prospect Lefferts & Wingate ",12/1/2020,0.349779142,0.443597076
+"Crown Heights South, Prospect Lefferts & Wingate ",1/1/2021,0.319941965,0.401974126
+"Crown Heights South, Prospect Lefferts & Wingate ",2/1/2021,0.322775368,0.407805845
+"East Flatbush, Farragut & Rugby ",4/1/2020,0.180165601,0.250934505
+"East Flatbush, Farragut & Rugby ",5/1/2020,0.194239334,0.249158351
+"East Flatbush, Farragut & Rugby ",6/1/2020,0.286722658,0.356700636
+"East Flatbush, Farragut & Rugby ",7/1/2020,0.372922825,0.446544643
+"East Flatbush, Farragut & Rugby ",8/1/2020,0.344880823,0.445875801
+"East Flatbush, Farragut & Rugby ",9/1/2020,0.401695447,0.537974066
+"East Flatbush, Farragut & Rugby ",10/1/2020,0.426402198,0.554749913
+"East Flatbush, Farragut & Rugby ",11/1/2020,0.388870926,0.486735982
+"East Flatbush, Farragut & Rugby ",12/1/2020,0.409510582,0.529715849
+"East Flatbush, Farragut & Rugby ",1/1/2021,0.377309793,0.491602552
+"East Flatbush, Farragut & Rugby ",2/1/2021,0.36906106,0.489971025
+East Harlem ,4/1/2020,0.159047561,0.268335372
+East Harlem ,5/1/2020,0.172846326,0.285310963
+East Harlem ,6/1/2020,0.234558206,0.373929204
+East Harlem ,7/1/2020,0.295312483,0.467150471
+East Harlem ,8/1/2020,0.287530884,0.44772973
+East Harlem ,9/1/2020,0.335025535,0.485740208
+East Harlem ,10/1/2020,0.348456002,0.513915134
+East Harlem ,11/1/2020,0.347675264,0.517817356
+East Harlem ,12/1/2020,0.35493273,0.54238549
+East Harlem ,1/1/2021,0.334839854,0.501972664
+East Harlem ,2/1/2021,0.335582933,0.495164967
+East New York & Starrett City ,4/1/2020,0.190248507,0.269011405
+East New York & Starrett City ,5/1/2020,0.234484574,0.335520711
+East New York & Starrett City ,6/1/2020,0.318860885,0.429345445
+East New York & Starrett City ,7/1/2020,0.36881066,0.493937548
+East New York & Starrett City ,8/1/2020,0.380750762,0.526054536
+East New York & Starrett City ,9/1/2020,0.416668155,0.54656556
+East New York & Starrett City ,10/1/2020,0.424806458,0.542769237
+East New York & Starrett City ,11/1/2020,0.418946675,0.540347784
+East New York & Starrett City ,12/1/2020,0.424476915,0.562883484
+East New York & Starrett City ,1/1/2021,0.391756594,0.515749107
+East New York & Starrett City ,2/1/2021,0.373986796,0.494884856
+Elmhurst & South Corona ,4/1/2020,0.0854382,0.11028606
+Elmhurst & South Corona ,5/1/2020,0.12630925,0.161906651
+Elmhurst & South Corona ,6/1/2020,0.225648178,0.282143711
+Elmhurst & South Corona ,7/1/2020,0.311322517,0.393362924
+Elmhurst & South Corona ,8/1/2020,0.323910859,0.419416832
+Elmhurst & South Corona ,9/1/2020,0.369162199,0.464205205
+Elmhurst & South Corona ,10/1/2020,0.409495857,0.479265711
+Elmhurst & South Corona ,11/1/2020,0.414107361,0.508173342
+Elmhurst & South Corona ,12/1/2020,0.409878358,0.520613244
+Elmhurst & South Corona ,1/1/2021,0.386585193,0.489871608
+Elmhurst & South Corona ,2/1/2021,0.386970815,0.503370752
+"Far Rockaway, Breezy Point & Broad Channel ",4/1/2020,0.215716293,0.291380961
+"Far Rockaway, Breezy Point & Broad Channel ",5/1/2020,0.255122575,0.340496616
+"Far Rockaway, Breezy Point & Broad Channel ",6/1/2020,0.333995133,0.431753816
+"Far Rockaway, Breezy Point & Broad Channel ",7/1/2020,0.403510098,0.503653932
+"Far Rockaway, Breezy Point & Broad Channel ",8/1/2020,0.413678925,0.508117328
+"Far Rockaway, Breezy Point & Broad Channel ",9/1/2020,0.48127242,0.581111463
+"Far Rockaway, Breezy Point & Broad Channel ",10/1/2020,0.451521461,0.537130311
+"Far Rockaway, Breezy Point & Broad Channel ",11/1/2020,0.449266533,0.540425578
+"Far Rockaway, Breezy Point & Broad Channel ",12/1/2020,0.4429755,0.552259492
+"Far Rockaway, Breezy Point & Broad Channel ",1/1/2021,0.426242449,0.526394922
+"Far Rockaway, Breezy Point & Broad Channel ",2/1/2021,0.375938482,0.48329343
+Flatbush & Midwood ,4/1/2020,0.123741016,0.171072363
+Flatbush & Midwood ,5/1/2020,0.146232478,0.200500648
+Flatbush & Midwood ,6/1/2020,0.235490673,0.30473647
+Flatbush & Midwood ,7/1/2020,0.312687662,0.401349327
+Flatbush & Midwood ,8/1/2020,0.321901052,0.411799355
+Flatbush & Midwood ,9/1/2020,0.370681628,0.453280617
+Flatbush & Midwood ,10/1/2020,0.390597574,0.474511688
+Flatbush & Midwood ,11/1/2020,0.408108122,0.513789853
+Flatbush & Midwood ,12/1/2020,0.388396157,0.493679388
+Flatbush & Midwood ,1/1/2021,0.353492727,0.44912188
+Flatbush & Midwood ,2/1/2021,0.364469597,0.477153396
+"Flushing, Murray Hill & Whitestone ",4/1/2020,0.085274031,0.110834495
+"Flushing, Murray Hill & Whitestone ",5/1/2020,0.11290267,0.147485299
+"Flushing, Murray Hill & Whitestone ",6/1/2020,0.193420907,0.247564494
+"Flushing, Murray Hill & Whitestone ",7/1/2020,0.269640254,0.329719103
+"Flushing, Murray Hill & Whitestone ",8/1/2020,0.286942456,0.342919309
+"Flushing, Murray Hill & Whitestone ",9/1/2020,0.353453346,0.405887426
+"Flushing, Murray Hill & Whitestone ",10/1/2020,0.41203031,0.480781315
+"Flushing, Murray Hill & Whitestone ",11/1/2020,0.416860996,0.484898804
+"Flushing, Murray Hill & Whitestone ",12/1/2020,0.372167219,0.430422829
+"Flushing, Murray Hill & Whitestone ",1/1/2021,0.351104652,0.407784115
+"Flushing, Murray Hill & Whitestone ",2/1/2021,0.455739396,0.540674146
+Forest Hills & Rego Park ,4/1/2020,0.080823465,0.124573233
+Forest Hills & Rego Park ,5/1/2020,0.101187914,0.148533254
+Forest Hills & Rego Park ,6/1/2020,0.180571127,0.239768071
+Forest Hills & Rego Park ,7/1/2020,0.261227112,0.330106249
+Forest Hills & Rego Park ,8/1/2020,0.281733966,0.368410687
+Forest Hills & Rego Park ,9/1/2020,0.32633587,0.433735733
+Forest Hills & Rego Park ,10/1/2020,0.334678822,0.414722768
+Forest Hills & Rego Park ,11/1/2020,0.330106581,0.408287168
+Forest Hills & Rego Park ,12/1/2020,0.332807175,0.436289076
+Forest Hills & Rego Park ,1/1/2021,0.309490623,0.412081266
+Forest Hills & Rego Park ,2/1/2021,0.309081522,0.402273828
+Greenpoint & Williamsburg ,4/1/2020,0.073731805,0.123629
+Greenpoint & Williamsburg ,5/1/2020,0.096594071,0.152017716
+Greenpoint & Williamsburg ,6/1/2020,0.162413477,0.245474525
+Greenpoint & Williamsburg ,7/1/2020,0.233981152,0.347114354
+Greenpoint & Williamsburg ,8/1/2020,0.261703896,0.378542225
+Greenpoint & Williamsburg ,9/1/2020,0.311431382,0.439640673
+Greenpoint & Williamsburg ,10/1/2020,0.32187142,0.458762381
+Greenpoint & Williamsburg ,11/1/2020,0.310186373,0.455457174
+Greenpoint & Williamsburg ,12/1/2020,0.306169083,0.452381997
+Greenpoint & Williamsburg ,1/1/2021,0.267823299,0.420495657
+Greenpoint & Williamsburg ,2/1/2021,0.26701765,0.437966451
+"Hamilton Heights, Manhattanville & West Harlem ",4/1/2020,0.102939563,0.165630105
+"Hamilton Heights, Manhattanville & West Harlem ",5/1/2020,0.118806413,0.186124815
+"Hamilton Heights, Manhattanville & West Harlem ",6/1/2020,0.198033116,0.295840935
+"Hamilton Heights, Manhattanville & West Harlem ",7/1/2020,0.255653186,0.369618574
+"Hamilton Heights, Manhattanville & West Harlem ",8/1/2020,0.266780701,0.385980776
+"Hamilton Heights, Manhattanville & West Harlem ",9/1/2020,0.286724083,0.408710045
+"Hamilton Heights, Manhattanville & West Harlem ",10/1/2020,0.296968779,0.419246008
+"Hamilton Heights, Manhattanville & West Harlem ",11/1/2020,0.291767809,0.427833448
+"Hamilton Heights, Manhattanville & West Harlem ",12/1/2020,0.30011603,0.443320721
+"Hamilton Heights, Manhattanville & West Harlem ",1/1/2021,0.283738725,0.402254299
+"Hamilton Heights, Manhattanville & West Harlem ",2/1/2021,0.271456091,0.385684491
+Howard Beach & Ozone Park ,4/1/2020,0.126034945,0.164246918
+Howard Beach & Ozone Park ,5/1/2020,0.162397626,0.210607189
+Howard Beach & Ozone Park ,6/1/2020,0.256707136,0.318133322
+Howard Beach & Ozone Park ,7/1/2020,0.328158697,0.387471642
+Howard Beach & Ozone Park ,8/1/2020,0.339576726,0.450511979
+Howard Beach & Ozone Park ,9/1/2020,0.410723553,0.554804136
+Howard Beach & Ozone Park ,10/1/2020,0.419799087,0.452274381
+Howard Beach & Ozone Park ,11/1/2020,0.414949997,0.507972265
+Howard Beach & Ozone Park ,12/1/2020,0.455348765,0.598344272
+Howard Beach & Ozone Park ,1/1/2021,0.403281317,0.48779252
+Howard Beach & Ozone Park ,2/1/2021,0.382202655,0.466014274
+"Hunts Point, Longwood & Melrose ",4/1/2020,0.184248253,0.296884792
+"Hunts Point, Longwood & Melrose ",5/1/2020,0.206365048,0.330158045
+"Hunts Point, Longwood & Melrose ",6/1/2020,0.284812265,0.438362703
+"Hunts Point, Longwood & Melrose ",7/1/2020,0.340680775,0.506594783
+"Hunts Point, Longwood & Melrose ",8/1/2020,0.347813859,0.506223201
+"Hunts Point, Longwood & Melrose ",9/1/2020,0.396781447,0.563340557
+"Hunts Point, Longwood & Melrose ",10/1/2020,0.402452656,0.579021887
+"Hunts Point, Longwood & Melrose ",11/1/2020,0.402929436,0.560056019
+"Hunts Point, Longwood & Melrose ",12/1/2020,0.41941352,0.603194231
+"Hunts Point, Longwood & Melrose ",1/1/2021,0.38811343,0.564191602
+"Hunts Point, Longwood & Melrose ",2/1/2021,0.38004585,0.573731473
+Jackson Heights & North Corona ,4/1/2020,0.113585382,0.1437804
+Jackson Heights & North Corona ,5/1/2020,0.180326169,0.227620597
+Jackson Heights & North Corona ,6/1/2020,0.291264892,0.357091064
+Jackson Heights & North Corona ,7/1/2020,0.384755191,0.461711743
+Jackson Heights & North Corona ,8/1/2020,0.380650294,0.474249546
+Jackson Heights & North Corona ,9/1/2020,0.455735513,0.568547864
+Jackson Heights & North Corona ,10/1/2020,0.451706396,0.589088514
+Jackson Heights & North Corona ,11/1/2020,0.463528343,0.615497317
+Jackson Heights & North Corona ,12/1/2020,0.480469781,0.603460416
+Jackson Heights & North Corona ,1/1/2021,0.45454626,0.578426786
+Jackson Heights & North Corona ,2/1/2021,0.39745346,0.555754242
+"Jamaica, Hollis & St. Albans ",4/1/2020,0.123406461,0.177393173
+"Jamaica, Hollis & St. Albans ",5/1/2020,0.146861092,0.206685265
+"Jamaica, Hollis & St. Albans ",6/1/2020,0.227021904,0.324165396
+"Jamaica, Hollis & St. Albans ",7/1/2020,0.287391544,0.395539908
+"Jamaica, Hollis & St. Albans ",8/1/2020,0.304054884,0.402626104
+"Jamaica, Hollis & St. Albans ",9/1/2020,0.314889231,0.391017881
+"Jamaica, Hollis & St. Albans ",10/1/2020,0.255880589,0.32704943
+"Jamaica, Hollis & St. Albans ",11/1/2020,0.329521543,0.426743661
+"Jamaica, Hollis & St. Albans ",12/1/2020,0.343129135,0.450916939
+"Jamaica, Hollis & St. Albans ",1/1/2021,0.33294442,0.422976791
+"Jamaica, Hollis & St. Albans ",2/1/2021,0.324759151,0.410632622
+"Morris Heights, Fordham South & Mount Hope ",4/1/2020,0.207733207,0.31570396
+"Morris Heights, Fordham South & Mount Hope ",5/1/2020,0.236249676,0.368314013
+"Morris Heights, Fordham South & Mount Hope ",6/1/2020,0.31759237,0.472460796
+"Morris Heights, Fordham South & Mount Hope ",7/1/2020,0.365414001,0.55631387
+"Morris Heights, Fordham South & Mount Hope ",8/1/2020,0.35285764,0.515553492
+"Morris Heights, Fordham South & Mount Hope ",9/1/2020,0.395438202,0.566490104
+"Morris Heights, Fordham South & Mount Hope ",10/1/2020,0.395341156,0.568777545
+"Morris Heights, Fordham South & Mount Hope ",11/1/2020,0.419650658,0.621736306
+"Morris Heights, Fordham South & Mount Hope ",12/1/2020,0.44034123,0.631576817
+"Morris Heights, Fordham South & Mount Hope ",1/1/2021,0.409607675,0.60181369
+"Morris Heights, Fordham South & Mount Hope ",2/1/2021,0.393788029,0.579886928
+"Murray Hill, Gramercy & Stuyvesant Town ",4/1/2020,0.037219774,0.053801912
+"Murray Hill, Gramercy & Stuyvesant Town ",5/1/2020,0.047138416,0.065444896
+"Murray Hill, Gramercy & Stuyvesant Town ",6/1/2020,0.089738608,0.115388697
+"Murray Hill, Gramercy & Stuyvesant Town ",7/1/2020,0.127116337,0.16206556
+"Murray Hill, Gramercy & Stuyvesant Town ",8/1/2020,0.14379477,0.185178615
+"Murray Hill, Gramercy & Stuyvesant Town ",9/1/2020,0.173188383,0.215137893
+"Murray Hill, Gramercy & Stuyvesant Town ",10/1/2020,0.178781314,0.224567865
+"Murray Hill, Gramercy & Stuyvesant Town ",11/1/2020,0.177470724,0.232061472
+"Murray Hill, Gramercy & Stuyvesant Town ",12/1/2020,0.171854004,0.222121549
+"Murray Hill, Gramercy & Stuyvesant Town ",1/1/2021,0.16230642,0.207095475
+"Murray Hill, Gramercy & Stuyvesant Town ",2/1/2021,0.170341218,0.220213874
+"Park Slope, Carroll Gardens & Red Hook ",4/1/2020,0.066497005,0.12222767
+"Park Slope, Carroll Gardens & Red Hook ",5/1/2020,0.081279513,0.14674577
+"Park Slope, Carroll Gardens & Red Hook ",6/1/2020,0.143886198,0.228157623
+"Park Slope, Carroll Gardens & Red Hook ",7/1/2020,0.21432574,0.316667318
+"Park Slope, Carroll Gardens & Red Hook ",8/1/2020,0.239070811,0.35634524
+"Park Slope, Carroll Gardens & Red Hook ",9/1/2020,0.276747545,0.388432611
+"Park Slope, Carroll Gardens & Red Hook ",10/1/2020,0.287484235,0.394387328
+"Park Slope, Carroll Gardens & Red Hook ",11/1/2020,0.268230312,0.398837304
+"Park Slope, Carroll Gardens & Red Hook ",12/1/2020,0.266507367,0.40533564
+"Park Slope, Carroll Gardens & Red Hook ",1/1/2021,0.234733255,0.363774288
+"Park Slope, Carroll Gardens & Red Hook ",2/1/2021,0.24839053,0.379537295
+"Pelham Parkway, Morris Park & Laconia ",4/1/2020,0.153723693,0.24495944
+"Pelham Parkway, Morris Park & Laconia ",5/1/2020,0.179656761,0.276420296
+"Pelham Parkway, Morris Park & Laconia ",6/1/2020,0.258178556,0.386455304
+"Pelham Parkway, Morris Park & Laconia ",7/1/2020,0.294788272,0.467726945
+"Pelham Parkway, Morris Park & Laconia ",8/1/2020,0.319593617,0.476347364
+"Pelham Parkway, Morris Park & Laconia ",9/1/2020,0.408161633,0.593551523
+"Pelham Parkway, Morris Park & Laconia ",10/1/2020,0.422086827,0.642481229
+"Pelham Parkway, Morris Park & Laconia ",11/1/2020,0.378934742,0.629357927
+"Pelham Parkway, Morris Park & Laconia ",12/1/2020,0.416792568,0.647394035
+"Pelham Parkway, Morris Park & Laconia ",1/1/2021,0.39861754,0.593713225
+"Pelham Parkway, Morris Park & Laconia ",2/1/2021,0.388725213,0.576321585
+"Queens Village, Cambria Heights & Rosedale ",4/1/2020,0.091570024,0.049302676
+"Queens Village, Cambria Heights & Rosedale ",5/1/2020,0.08764797,0.053565424
+"Queens Village, Cambria Heights & Rosedale ",6/1/2020,0.115741572,0.082272953
+"Queens Village, Cambria Heights & Rosedale ",7/1/2020,0.146503462,0.111588213
+"Queens Village, Cambria Heights & Rosedale ",8/1/2020,0.155760026,0.120672207
+"Queens Village, Cambria Heights & Rosedale ",9/1/2020,0.189344709,0.140451687
+"Queens Village, Cambria Heights & Rosedale ",10/1/2020,0.246951799,0.115978971
+"Queens Village, Cambria Heights & Rosedale ",11/1/2020,0.251276102,0.117533681
+"Queens Village, Cambria Heights & Rosedale ",12/1/2020,0.247346491,0.146460424
+"Queens Village, Cambria Heights & Rosedale ",1/1/2021,0.260394441,0.140340784
+"Queens Village, Cambria Heights & Rosedale ",2/1/2021,0.24891502,0.149749691
+Richmond Hill & Woodhaven ,4/1/2020,0.114027305,0.131579418
+Richmond Hill & Woodhaven ,5/1/2020,0.15058531,0.159993335
+Richmond Hill & Woodhaven ,6/1/2020,0.236205646,0.257590289
+Richmond Hill & Woodhaven ,7/1/2020,0.307051067,0.341176185
+Richmond Hill & Woodhaven ,8/1/2020,0.345394613,0.395144374
+Richmond Hill & Woodhaven ,9/1/2020,0.430692331,0.4804255
+Richmond Hill & Woodhaven ,10/1/2020,0.475164954,0.519910384
+Richmond Hill & Woodhaven ,11/1/2020,0.391575677,0.427614984
+Richmond Hill & Woodhaven ,12/1/2020,0.405469001,0.46067819
+Richmond Hill & Woodhaven ,1/1/2021,0.375638097,0.446134067
+Richmond Hill & Woodhaven ,2/1/2021,0.367290259,0.44119383
+"Ridgewood, Glendale & Middle Village ",4/1/2020,0.116253891,0.156262852
+"Ridgewood, Glendale & Middle Village ",5/1/2020,0.145093852,0.182512063
+"Ridgewood, Glendale & Middle Village ",6/1/2020,0.247892951,0.292066541
+"Ridgewood, Glendale & Middle Village ",7/1/2020,0.339586899,0.385966325
+"Ridgewood, Glendale & Middle Village ",8/1/2020,0.351294445,0.407503906
+"Ridgewood, Glendale & Middle Village ",9/1/2020,0.401479193,0.454353183
+"Ridgewood, Glendale & Middle Village ",10/1/2020,0.40138521,0.468531794
+"Ridgewood, Glendale & Middle Village ",11/1/2020,0.373347929,0.44118748
+"Ridgewood, Glendale & Middle Village ",12/1/2020,0.376048018,0.452700781
+"Ridgewood, Glendale & Middle Village ",1/1/2021,0.344675615,0.421360976
+"Ridgewood, Glendale & Middle Village ",2/1/2021,0.342405373,0.424664109
+"Riverdale, Fieldston & Kingsbridge ",4/1/2020,0.148486271,0.274504436
+"Riverdale, Fieldston & Kingsbridge ",5/1/2020,0.180796599,0.364413811
+"Riverdale, Fieldston & Kingsbridge ",6/1/2020,0.281427616,0.45138464
+"Riverdale, Fieldston & Kingsbridge ",7/1/2020,0.337158044,0.500039591
+"Riverdale, Fieldston & Kingsbridge ",8/1/2020,0.343320884,0.512693073
+"Riverdale, Fieldston & Kingsbridge ",9/1/2020,0.394681411,0.52957164
+"Riverdale, Fieldston & Kingsbridge ",10/1/2020,0.397311717,0.510977509
+"Riverdale, Fieldston & Kingsbridge ",11/1/2020,0.389305763,0.523505508
+"Riverdale, Fieldston & Kingsbridge ",12/1/2020,0.400404177,0.577367239
+"Riverdale, Fieldston & Kingsbridge ",1/1/2021,0.338565176,0.500045017
+"Riverdale, Fieldston & Kingsbridge ",2/1/2021,0.357365109,0.513369657
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",4/1/2020,0.101978476,0.125427191
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",5/1/2020,0.129812291,0.156656867
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",6/1/2020,0.223975403,0.261114471
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",7/1/2020,0.305559166,0.358886801
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",8/1/2020,0.329017304,0.384613012
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",9/1/2020,0.38645359,0.442042686
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",10/1/2020,0.399411928,0.451465184
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",11/1/2020,0.404076727,0.466179669
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",12/1/2020,0.404133125,0.473843213
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",1/1/2021,0.370858386,0.44566632
+"Sheepshead Bay, Gerritsen Beach & Homecrest ",2/1/2021,0.367326901,0.439241861
+Sunnyside & Woodside ,4/1/2020,0.072999127,0.099990213
+Sunnyside & Woodside ,5/1/2020,0.10243974,0.13948798
+Sunnyside & Woodside ,6/1/2020,0.176163001,0.230322902
+Sunnyside & Woodside ,7/1/2020,0.238549205,0.314211639
+Sunnyside & Woodside ,8/1/2020,0.269891779,0.354542611
+Sunnyside & Woodside ,9/1/2020,0.301786751,0.387215076
+Sunnyside & Woodside ,10/1/2020,0.307339596,0.392826497
+Sunnyside & Woodside ,11/1/2020,0.311230967,0.40061226
+Sunnyside & Woodside ,12/1/2020,0.315128112,0.415339601
+Sunnyside & Woodside ,1/1/2021,0.282749701,0.372665704
+Sunnyside & Woodside ,2/1/2021,0.283920842,0.387064422
+Sunset Park & Windsor Terrace ,4/1/2020,0.105345508,0.14411549
+Sunset Park & Windsor Terrace ,5/1/2020,0.136566106,0.17539967
+Sunset Park & Windsor Terrace ,6/1/2020,0.222348761,0.273224533
+Sunset Park & Windsor Terrace ,7/1/2020,0.308321605,0.371536021
+Sunset Park & Windsor Terrace ,8/1/2020,0.334118309,0.419928655
+Sunset Park & Windsor Terrace ,9/1/2020,0.41644121,0.507506423
+Sunset Park & Windsor Terrace ,10/1/2020,0.381522255,0.510484736
+Sunset Park & Windsor Terrace ,11/1/2020,0.378995509,0.488193379
+Sunset Park & Windsor Terrace ,12/1/2020,0.380665228,0.503249857
+Sunset Park & Windsor Terrace ,1/1/2021,0.356098941,0.492360104
+Sunset Park & Windsor Terrace ,2/1/2021,0.350271229,0.481511673
+Upper East Side ,4/1/2020,0.075603193,0.096858378
+Upper East Side ,5/1/2020,0.089022985,0.117037306
+Upper East Side ,6/1/2020,0.160411463,0.203427553
+Upper East Side ,7/1/2020,0.231202062,0.288837572
+Upper East Side ,8/1/2020,0.252086969,0.320347144
+Upper East Side ,9/1/2020,0.283172913,0.3544397
+Upper East Side ,10/1/2020,0.295521224,0.369939113
+Upper East Side ,11/1/2020,0.286531598,0.36662816
+Upper East Side ,12/1/2020,0.29736021,0.380454351
+Upper East Side ,1/1/2021,0.281762984,0.363497797
+Upper East Side ,2/1/2021,0.283593465,0.365682526
+Upper West Side & West Side ,4/1/2020,0.057438895,0.080533642
+Upper West Side & West Side ,5/1/2020,0.071360131,0.099050748
+Upper West Side & West Side ,6/1/2020,0.123504572,0.158319604
+Upper West Side & West Side ,7/1/2020,0.18104729,0.23046777
+Upper West Side & West Side ,8/1/2020,0.210542332,0.2732746
+Upper West Side & West Side ,9/1/2020,0.238519579,0.300731256
+Upper West Side & West Side ,10/1/2020,0.249576648,0.316980513
+Upper West Side & West Side ,11/1/2020,0.239698865,0.313206816
+Upper West Side & West Side ,12/1/2020,0.236323747,0.310342389
+Upper West Side & West Side ,1/1/2021,0.236074209,0.306509835
+Upper West Side & West Side ,2/1/2021,0.239067116,0.309431931
+"Wakefield, Williamsbridge & Woodlawn ",4/1/2020,0.196290845,0.28242071
+"Wakefield, Williamsbridge & Woodlawn ",5/1/2020,0.219161483,0.309260538
+"Wakefield, Williamsbridge & Woodlawn ",6/1/2020,0.298488777,0.414840885
+"Wakefield, Williamsbridge & Woodlawn ",7/1/2020,0.28275681,0.4157616
+"Wakefield, Williamsbridge & Woodlawn ",8/1/2020,0.33075356,0.490743762
+"Wakefield, Williamsbridge & Woodlawn ",9/1/2020,0.425179433,0.529528882
+"Wakefield, Williamsbridge & Woodlawn ",10/1/2020,0.419258016,0.529001582
+"Wakefield, Williamsbridge & Woodlawn ",11/1/2020,0.356721871,0.478192256
+"Wakefield, Williamsbridge & Woodlawn ",12/1/2020,0.422047035,0.550327663
+"Wakefield, Williamsbridge & Woodlawn ",1/1/2021,0.393237389,0.504319951
+"Wakefield, Williamsbridge & Woodlawn ",2/1/2021,0.376598646,0.48514329
+"Washington Heights, Inwood & Marble Hill ",4/1/2020,0.114991016,0.180456088
+"Washington Heights, Inwood & Marble Hill ",5/1/2020,0.136205294,0.210194603
+"Washington Heights, Inwood & Marble Hill ",6/1/2020,0.215049172,0.325840446
+"Washington Heights, Inwood & Marble Hill ",7/1/2020,0.282542704,0.4155934
+"Washington Heights, Inwood & Marble Hill ",8/1/2020,0.300825592,0.464590907
+"Washington Heights, Inwood & Marble Hill ",9/1/2020,0.356808185,0.533807578
+"Washington Heights, Inwood & Marble Hill ",10/1/2020,0.368295684,0.543730283
+"Washington Heights, Inwood & Marble Hill ",11/1/2020,0.355875435,0.525802067
+"Washington Heights, Inwood & Marble Hill ",12/1/2020,0.344541067,0.502538142
+"Washington Heights, Inwood & Marble Hill ",1/1/2021,0.308315528,0.414663061
+"Washington Heights, Inwood & Marble Hill ",2/1/2021,0.321587081,0.44518192
+New York City,4/1/2020,0.08311185,0.116602369
+New York City,5/1/2020,0.102845312,0.142444406
+New York City,6/1/2020,0.16703419,0.220179077
+New York City,7/1/2020,0.22595276,0.292974455
+New York City,8/1/2020,0.244688731,0.319962339
+New York City,9/1/2020,0.282043295,0.358170156
+New York City,10/1/2020,0.288684709,0.364908231
+New York City,11/1/2020,0.284893459,0.367118385
+New York City,12/1/2020,0.284555186,0.370420979
+New York City,1/1/2021,0.268578492,0.35097205
+New York City,2/1/2021,0.266968936,0.352280339

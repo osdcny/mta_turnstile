@@ -1,0 +1,457 @@
+STATION_NAME_RAW,STATION_NAME,NAME_CHANGED?,Complex ID,Latitude,Longitude,Neighborhood,PUMA,Borough
+1 AV-L,1 AV (L),No,119,40.730953,-73.981628,Chinatown & Lower East Side ,3809,Manhattan
+103 ST-1,103 ST (1),No,309,40.799446,-73.968379,Upper West Side & West Side ,3806,Manhattan
+103 ST-6,103 ST (6),No,395,40.7906,-73.947478,East Harlem ,3804,Manhattan
+103 ST-BC,"103 ST (B,C)",No,156,40.796092,-73.961454,Upper West Side & West Side ,3806,Manhattan
+103 ST-CORONA-7,103 ST-CORONA PLAZA (7),NAME_ONLY,450,40.749865,-73.8627,Jackson Heights & North Corona ,4102,Queens
+104 ST-A,104 ST (A),No,193,40.681711,-73.837683,Howard Beach & Ozone Park ,4113,Queens
+104 ST-JZ,"104 ST (J,Z)",No,82,40.695178,-73.84433,Richmond Hill & Woodhaven ,4111,Queens
+110 ST-6,110 ST (6),No,394,40.79502,-73.94425,East Harlem ,3804,Manhattan
+111 ST-7,111 ST (7),No,449,40.75173,-73.855334,Jackson Heights & North Corona ,4102,Queens
+111 ST-A,111 ST (A),No,194,40.684331,-73.832163,Howard Beach & Ozone Park ,4113,Queens
+111 ST-J,111 ST (J),No,81,40.697418,-73.836345,Richmond Hill & Woodhaven ,4111,Queens
+116 ST-23,"116 ST (2,3)",No,440,40.802098,-73.949625,Central Harlem ,3803,Manhattan
+116 ST-6,116 ST (6),No,393,40.798629,-73.941617,East Harlem ,3804,Manhattan
+116 ST-BC,"116 ST (B,C)",No,154,40.805085,-73.954882,Central Harlem ,3803,Manhattan
+116 ST-COLUMBIA-1,116 ST-COLUMBIA UNIVERSITY (1),NAME_ONLY,307,40.807722,-73.96411,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+121 ST-JZ,"121 ST (J,Z)",No,80,40.700492,-73.828294,Richmond Hill & Woodhaven ,4111,Queens
+125 ST-1,125 ST (1),No,306,40.815581,-73.958372,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+125 ST-23,"125 ST (2,3)",No,439,40.807754,-73.945495,Central Harlem ,3803,Manhattan
+125 ST-456,"125 ST (4,5,6)",No,392,40.804138,-73.937594,East Harlem ,3804,Manhattan
+125 ST-ACBD,"125 ST (A,C,B,D)",No,153,40.811109,-73.952343,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+135 ST-23,"135 ST (2,3)",No,152,40.817894,-73.947649,Central Harlem ,3803,Manhattan
+135 ST-BC,"135 ST (B,C)",No,438,40.814229,-73.94077,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+137 ST CITY COL-1,137 ST-CITY COLLEGE (1),NAME_ONLY,305,40.822008,-73.953676,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+138/GRAND CONC-45,"138 ST-GRAND CONCOURSE (4,5)",NAME_ONLY,391,40.813224,-73.929849,"Hunts Point, Longwood & Melrose ",3710,Bronx
+14 ST-123FLM,"14 ST/6 AV (1,2,3,F,L,M)",DUPLICATED,601,40.737826,-74.000201,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+14 ST-ACEL,"14 ST/8 AV (A,C,E,L)",DUPLICATED,618,40.740893,-74.00169,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+14 ST-FLM123,"14 ST/6 AV (1,2,3,F,L,M)",DUPLICATED,601,40.737826,-74.000201,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+14 ST-UNION SQ-456LNQRW,"14 ST-UNION SQ (4,5,6,L,N,Q,R,W)",DUPLICATED,602,40.734673,-73.989951,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+14 ST-UNION SQ-LNQR456W,"14 ST-UNION SQ (4,5,6,L,N,Q,R,W)",DUPLICATED,602,40.734673,-73.989951,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+145 ST-1,145 ST (1),NO,304,40.826551,-73.95036,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+145 ST-3,145 ST (3),NO,437,40.820421,-73.936245,Central Harlem ,3803,Manhattan
+145 ST-ABCD,"145 ST (A,B,C,D)",COMBINED,151,40.824783,-73.944216,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+149/GRAND CONC-245,"149 ST-GRAND CONCOURSE (2,4,5)",NAME_ONLY,603,40.81841,-73.926718,"Hunts Point, Longwood & Melrose ",3710,Bronx
+15 ST-PROSPECT-FG,"15 ST-PROSPECT PARK (F,G)",NAME_ONLY,241,40.660365,-73.979493,Sunset Park & Windsor Terrace ,4012,Brooklyn
+155 ST-BD,"155 ST (B,D)",NO,220,40.830135,-73.938209,Central Harlem ,3803,Manhattan
+155 ST-C,155 ST (C),NO,150,40.830518,-73.941514,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+157 ST-1,157 ST (1),NO,303,40.834041,-73.94489,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+161/YANKEE STAD-4BD,"161 ST-YANKEE STADIUM (4,B,D)",DUPLICATED,604,40.827994,-73.925831,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+161/YANKEE STAD-BD4,"161 ST-YANKEE STADIUM (4,B,D)",DUPLICATED,604,40.827994,-73.925831,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+163 ST-AMSTERDM-C,163 ST-AMSTERDAM AV (C),NAME_ONLY,149,40.836013,-73.939892,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+167 ST-4,167 ST (4),NO,388,40.835537,-73.9214,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+167 ST-BD,"167 ST (B,D)",NO,218,40.833771,-73.91844,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+168 ST-1AC,"168 ST-WASHINGTON HTS (1,A,C)",DUPLICATED,605,40.840556,-73.940133,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+168 ST-AC1,"168 ST-WASHINGTON HTS (1,A,C)",DUPLICATED,605,40.840556,-73.940133,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+169 ST-F,169 ST (F),NO,255,40.71047,-73.793604,"Jamaica, Hollis & St. Albans ",4112,Queens
+170 ST-4,170 ST (4),NO,387,40.840075,-73.917791,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+170 ST-BD,"170 ST (B,D)",NO,217,40.839306,-73.9134,"Concourse, Highbridge & Mount Eden ",3708,Bronx
+174 ST-25,"174 ST (2,5)",NO,428,40.837288,-73.887734,"Belmont, Crotona Park East & East Tremont ",3705,Bronx
+174-175 STS-BD,"174-175 STS (B,D)",NO,216,40.8459,-73.910136,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+175 ST-A,175 ST (A),NO,147,40.847391,-73.939704,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+176 ST-4,176 ST (4),NO,385,40.84848,-73.911794,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+18 AV-D,18 AV (D),NO,66,40.607954,-74.001736,Bensonhurst & Bath Beach ,4017,Brooklyn
+18 AV-F,18 AV (F),NO,245,40.629755,-73.976971,Flatbush & Midwood ,4015,Brooklyn
+18 AV-N,18 AV (N),NO,74,40.620671,-73.990414,Bensonhurst & Bath Beach ,4017,Brooklyn
+18 ST-1,18 ST (1),NO,321,40.74104,-73.997871,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+181 ST-1,181 ST (1),NO,301,40.849505,-73.933596,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+181 ST-A,181 ST (A),NO,146,40.851695,-73.937969,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+182-183 STS-BD,"182-183 STS (B,D)",NO,214,40.856093,-73.900741,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+183 ST-4,183 ST (4),NO,383,40.858407,-73.903879,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+190 ST-A,190 ST (A),NO,145,40.859022,-73.93418,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+191 ST-1,191 ST (1),NO,300,40.855225,-73.929412,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+2 AV-F,2 AV (F),NO,232,40.723402,-73.989938,Chinatown & Lower East Side ,3809,Manhattan
+20 AV-D,20 AV (D),NO,67,40.604556,-73.998168,Bensonhurst & Bath Beach ,4017,Brooklyn
+20 AV-N,20 AV (N),NO,75,40.61741,-73.985026,Bensonhurst & Bath Beach ,4017,Brooklyn
+207 ST-1,207 ST (1),NO,298,40.864621,-73.918822,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+21 ST-G,21 ST (G),NO,282,40.744065,-73.949724,Sunnyside & Woodside ,4109,Queens
+21 ST-QNSBRIDGE-F,21 ST-QUEENSBRIDGE (F),NAME_ONLY,221,40.754203,-73.942836,Astoria & Long Island City ,4101,Queens
+215 ST-1,215 ST (1),NO,297,40.869444,-73.915279,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+219 ST-25,"219 ST (2,5)",NO,420,40.883895,-73.862633,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+225 ST-25,"225 ST (2,5)",NO,419,40.888022,-73.860341,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+23 ST-1,23 ST (1),NO,320,40.744081,-73.995657,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+23 ST-6,23 ST (6),NO,405,40.739864,-73.986599,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+23 ST-CE,"23 ST (C,E)",NO,165,40.745906,-73.998041,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+23 ST-FM,"23 ST (F,M)",NO,228,40.742878,-73.992821,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+23 ST-NRW,"23 ST (N,R,W)",NO,14,40.741303,-73.989344,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+231 ST-1,231 ST (1),NO,295,40.878856,-73.904834,"Riverdale, Fieldston & Kingsbridge ",3701,Bronx
+233 ST-25,"233 ST (2,5)",NO,418,40.893193,-73.857473,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+238 ST-1,238 ST (1),NO,294,40.884667,-73.90087,"Riverdale, Fieldston & Kingsbridge ",3701,Bronx
+25 AV-D,25 AV (D),NO,69,40.597704,-73.986829,Bensonhurst & Bath Beach ,4017,Brooklyn
+25 ST-R,25 ST (R),NO,31,40.660397,-73.998091,Sunset Park & Windsor Terrace ,4012,Brooklyn
+28 ST-1,28 ST (1),NO,319,40.747215,-73.993365,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+28 ST-6,28 ST (6),NO,404,40.74307,-73.984264,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+28 ST-NRW,"28 ST (N,R,W)",NO,13,40.745494,-73.988691,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+3 AV 138 ST-6,3 AV 138 ST (6),NO,377,40.810476,-73.926138,"Hunts Point, Longwood & Melrose ",3710,Bronx
+3 AV-149 ST-25,"3 AV-149 ST (2,5)",NO,434,40.816109,-73.917757,"Hunts Point, Longwood & Melrose ",3710,Bronx
+3 AV-L,3 AV (L),NO,118,40.732849,-73.986122,"Murray Hill, Gramercy & Stuyvesant Town ",3808,Manhattan
+30 AV-NQW,"30 AV (N,Q,W)",NO,3,40.766779,-73.921479,Astoria & Long Island City ,4101,Queens
+33 ST-6,33 ST (6),NO,403,40.746081,-73.982076,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+33 ST-RAWSON ST-7,33 ST-RAWSON ST (7),NO,460,40.744587,-73.930997,Sunnyside & Woodside ,4109,Queens
+34 ST-HERALD SQ-BDFMNQRW,"34 ST-HERALD SQ (B,D,F,M,N,Q,R,W)",COMBINED,607,40.749567,-73.98795,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+34 ST-HUDSON YD-7,34 ST-HUDSON YARDS (7),NAME_ONLY,471,40.755882,-74.00191,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+34 ST-PENN STA-123,"34 ST-PENN STATION (1,2,3,A,C,E)",COMBINED,318,40.750373,-73.991057,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+34 ST-PENN STA-123ACE,"34 ST-PENN STATION (1,2,3,A,C,E)",COMBINED,318,40.750373,-73.991057,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+34 ST-PENN STA-ACE,"34 ST-PENN STATION (1,2,3,A,C,E)",COMBINED,164,40.750373,-73.991057,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+36 AV-NQW,"36 AV (N,Q,W)",NO,5,40.756804,-73.929575,Astoria & Long Island City ,4101,Queens
+36 ST-DNR,"36 ST (D,N,R)",NO,32,40.655144,-74.003549,Sunset Park & Windsor Terrace ,4012,Brooklyn
+36 ST-MR,"36 ST (M,R)",NO,272,40.752039,-73.928781,Sunnyside & Woodside ,4109,Queens
+39 AV-NQW,"39 AV (N,Q,W)",NO,6,40.752882,-73.932755,Astoria & Long Island City ,4101,Queens
+4 AV-9 ST-DFGMNR,"4 AV-9 ST (D,F,G,M,N,R)",NO,608,40.670847,-73.988302,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+40 ST LOWERY ST-7,40 ST LOWERY ST (7),NO,459,40.743781,-73.924016,Sunnyside & Woodside ,4109,Queens
+42 ST-BRYANT PK-BDFM7,"42 ST-BRYANT PK (B,D,F,M,7)",DUPLICATED,609,40.754222,-73.984569,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+42 ST-PORT AUTH-ACENGRS1237W,"TIMES SQ-42 ST/PORT AUTHORITY (1,2,3,7,A,C,E,N,Q,R,S,W)",DUPLICATED,611,40.755477,-73.987691,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+42 ST-PORT AUTH-ACENQRS1237W,"42 ST-PORT AUTHORITY (A,C,E,N,Q,R,S,1,2,3,7,W)",NO,,40.757308,-73.989735,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+45 ST-R,45 ST (R),NO,33,40.648939,-74.010006,Sunset Park & Windsor Terrace ,4012,Brooklyn
+46 ST BLISS ST-7,46 ST BLISS ST (7),NO,458,40.743132,-73.918435,Sunnyside & Woodside ,4109,Queens
+46 ST-MR,"46 ST (M,R)",NO,270,40.756312,-73.913333,Astoria & Long Island City ,4101,Queens
+47-50 STS ROCK-BDFM,"47-50 STS-ROCKEFELLER CENTER (B,D,F,M)",NAME_ONLY,225,40.758663,-73.981329,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+49 ST-NQRW,"49 ST (N,Q,R,W)",NO,10,40.759901,-73.984139,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+4AV-9 ST-DFGMNR,"4 AV-9 ST (D,F,G,M,N,R)",WRONG,608,40.670847,-73.988302,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+5 AV/53 ST-EM,"5 AV/53 ST (E,M)",NO,276,40.760167,-73.975224,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+5 AV/59 ST-NQRW,"5 AV/59 ST (N,Q,R,W)",NO,8,40.764811,-73.973347,Upper West Side & West Side ,3806,Manhattan
+5 AVE-7BDFM,"42 ST-BRYANT PK (B,D,F,M,7)",DUPLICATED,609,40.754222,-73.984569,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+50 ST-1,50 ST (1),NO,316,40.761728,-73.983849,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+50 ST-CE,"50 ST (C,E)",NO,162,40.762456,-73.985984,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+50 ST-D,50 ST (D),NO,61,40.63626,-73.994791,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+51 ST-6,"LEXINGTON AV/53 ST-51 ST (6,E,M)",DUPLICATED,612,40.757552,-73.969055,"Murray Hill, Gramercy & Stuyvesant Town ",3808,Manhattan
+52 ST-7,52 ST (7),NO,457,40.744149,-73.912549,Sunnyside & Woodside ,4109,Queens
+53 ST-R,53 ST (R),NO,34,40.645069,-74.014034,Sunset Park & Windsor Terrace ,4012,Brooklyn
+55 ST-D,55 ST (D),NO,62,40.631435,-73.995476,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+57 ST-7 AV-NQRW,"57 ST-7 AV (N,Q,R,W)",NO,9,40.764664,-73.980658,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+57 ST-F,57 ST (F),NO,224,40.763972,-73.97745,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+59 ST COLUMBUS-1ABCD,"59 ST-COLUMBUS CIRCLE (1,A,B,C,D)",DUPLICATED,614,40.768247,-73.981929,Upper West Side & West Side ,3806,Manhattan
+59 ST COLUMBUS-ABCD1,"59 ST-COLUMBUS CIRCLE (1,A,B,C,D)",DUPLICATED,614,40.768247,-73.981929,Upper West Side & West Side ,3806,Manhattan
+59 ST-456NQRW,"LEXINGTON AV/59 ST (4,5,6,N,Q,R,W)",DUPLICATED,613,40.762526,-73.967967,Upper East Side ,3805,Manhattan
+59 ST-NQR456W,"LEXINGTON AV/59 ST (4,5,6,N,Q,R,W)",DUPLICATED,613,40.762526,-73.967967,Upper East Side ,3805,Manhattan
+59 ST-NRW,"59 ST (N,R,W)",NO,35,40.641362,-74.017881,Sunset Park & Windsor Terrace ,4012,Brooklyn
+6 AV-FLM123,"14 ST/6 AV (1,2,3,F,L,M)",DUPLICATED,601,40.737826,-74.000201,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+61 ST WOODSIDE-7,61 ST WOODSIDE (7),NO,456,40.74563,-73.902984,Sunnyside & Woodside ,4109,Queens
+63 DR-REGO PARK-MR,"63 DR-REGO PARK (M,R)",NO,263,40.729846,-73.861604,Forest Hills & Rego Park ,4108,Queens
+65 ST-MR,"65 ST (M,R)",NO,268,40.749669,-73.898453,Sunnyside & Woodside ,4109,Queens
+66 ST-LINCOLN-1,66 ST-LINCOLN (1),NO,314,40.77344,-73.982209,Upper West Side & West Side ,3806,Manhattan
+67 AV-MR,"67 AV (M,R)",NO,262,40.726523,-73.852719,Forest Hills & Rego Park ,4108,Queens
+68ST-HUNTER CO-6,68 ST-HUNTER COLLEGE (6),NAME_ONLY,399,40.768141,-73.96387,Upper East Side ,3805,Manhattan
+69 ST-7,69 ST (7),NO,455,40.746325,-73.896403,Sunnyside & Woodside ,4109,Queens
+7 AV-BDE,"7 AV (B,D,E)",NO,277,40.762862,-73.981637,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+7 AV-BQ,"7 AV (B,Q)",NO,41,40.67705,-73.972367,Crown Heights North & Prospect Heights ,4006,Brooklyn
+7 AV-FG,"7 AV (F,G)",NO,240,40.666271,-73.980305,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+71 ST-D,71 ST (D),NO,64,40.619589,-73.998864,Bensonhurst & Bath Beach ,4017,Brooklyn
+72 ST-123,"72 ST (1,2,3)",NO,313,40.778453,-73.98197,Upper West Side & West Side ,3806,Manhattan
+72 ST-2 AVE-Q,72 ST-2 AVE (Q),NO,477,40.768799,-73.958424,Upper East Side ,3805,Manhattan
+72 ST-BC,"72 ST (B,C)",NO,160,40.775594,-73.97641,Upper West Side & West Side ,3806,Manhattan
+74 ST-BROADWAY-7EFMR,"74 ST-BROADWAY-JACKSON HTS-ROOSEVELT AV (7,E,F,M,R)",DUPLICATED,616,40.746848,-73.891394,Elmhurst & South Corona ,4107,Queens
+75 AV-EF,"75 AV (E,F)",NO,260,40.718331,-73.837324,Forest Hills & Rego Park ,4108,Queens
+75 ST-ELDERTS-JZ,"75 ST-ELDERTS (J,Z)",NO,85,40.691324,-73.867139,Richmond Hill & Woodhaven ,4111,Queens
+77 ST-6,77 ST (6),NO,398,40.77362,-73.959874,Upper East Side ,3805,Manhattan
+77 ST-R,77 ST (R),NO,37,40.629742,-74.02551,Bay Ridge & Dyker Heights ,4013,Brooklyn
+79 ST-1,79 ST (1),NO,312,40.783934,-73.979917,Upper West Side & West Side ,3806,Manhattan
+79 ST-D,79 ST (D),NO,65,40.613501,-74.00061,Bensonhurst & Bath Beach ,4017,Brooklyn
+8 AV-ACEL,"14 ST/8 AV (A,C,E,L)",DUPLICATED,618,40.740893,-74.00169,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+8 AV-N,8 AV (N),NO,71,40.635064,-74.011719,Sunset Park & Windsor Terrace ,4012,Brooklyn
+8 ST-NYU-NRW,"8 ST-NYU (N,R,W)",NO,16,40.730328,-73.992629,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+80 ST-A,80 ST (A),NO,190,40.679371,-73.858992,Howard Beach & Ozone Park ,4113,Queens
+81 ST-MUSEUM-BC,"81 ST-MUSEUM OF NATURAL HISTORY (B,C)",NAME_ONLY,159,40.781433,-73.972143,Upper West Side & West Side ,3806,Manhattan
+82 ST-JACKSON H-7,82 ST-JACKSON HTS (7),NAME_ONLY,453,40.747659,-73.883697,Jackson Heights & North Corona ,4102,Queens
+85 ST-FOREST PK-J,85 ST-FOREST PKWY (J),NAME_ONLY,84,40.692435,-73.86001,Richmond Hill & Woodhaven ,4111,Queens
+86 ST-1,86 ST (1),NO,311,40.788644,-73.976218,Upper West Side & West Side ,3806,Manhattan
+86 ST-2 AVE-Q,86 ST-2 AVE (Q),NO,476,40.777891,-73.951787,Upper East Side ,3805,Manhattan
+86 ST-456,"86 ST (4,5,6)",NO,397,40.779492,-73.955589,Upper East Side ,3805,Manhattan
+86 ST-BC,"86 ST (B,C)",NO,158,40.785868,-73.968916,Upper West Side & West Side ,3806,Manhattan
+86 ST-N,86 ST (N),NO,79,40.592721,-73.97823,Brighton Beach & Coney Island ,4018,Brooklyn
+86 ST-R,86 ST (R),NO,38,40.622687,-74.028398,Bay Ridge & Dyker Heights ,4013,Brooklyn
+88 ST-A,88 ST (A),NO,191,40.679843,-73.85147,Howard Beach & Ozone Park ,4113,Queens
+9 AV-D,9 AV (D),NO,59,40.646292,-73.994324,Sunset Park & Windsor Terrace ,4012,Brooklyn
+90 ST-ELMHURST-7,90 ST-ELMHURST AV (7),NAME_ONLY,452,40.748408,-73.876613,Jackson Heights & North Corona ,4102,Queens
+96 ST-123,"96 ST (1,2,3)",NO,310,40.793919,-73.972323,Upper West Side & West Side ,3806,Manhattan
+96 ST-2 AVE-Q,96 ST-2 AVE (Q),NO,475,40.784318,-73.947152,Upper East Side ,3805,Manhattan
+96 ST-6,96 ST (6),NO,396,40.785672,-73.95107,Upper East Side ,3805,Manhattan
+96 ST-BC,"96 ST (B,C)",NO,157,40.791642,-73.964696,Upper West Side & West Side ,3806,Manhattan
+ALABAMA AV-J,ALABAMA AV (J),NO,91,40.676992,-73.898654,East New York & Starrett City ,4008,Brooklyn
+ALLERTON AV-25,"ALLERTON AV (2,5)",NO,423,40.865462,-73.867352,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+AQUEDUCT N.COND-A,AQUEDUCT-N CONDUIT AV (A),NAME_ONLY,197,40.668234,-73.834058,Howard Beach & Ozone Park ,4113,Queens
+AQUEDUCT RACETR-A,AQUEDUCT RACETRACK (A),NAME_ONLY,196,40.672097,-73.835919,Howard Beach & Ozone Park ,4113,Queens
+ASTOR PL-6,ASTOR PL (6),NO,407,40.730054,-73.99107,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+ASTORIA BLVD-NQW,"ASTORIA BLVD (N,Q,W)",NO,2,40.770258,-73.917843,Astoria & Long Island City ,4101,Queens
+ASTORIA DITMARS-NQW,"ASTORIA-DITMARS BLVD (N,Q,W)",NAME_ONLY,1,40.775036,-73.912034,Astoria & Long Island City ,4101,Queens
+ATL AV-BARCLAY-2345BDNQR,"ATLANTIC AV-BARCLAYS CTR (2,3,4,5,B,D,N,Q,R)",COMBINED,617,40.684359,-73.977666,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+ATL AV-BARCLAY-BDNQR2345,"ATLANTIC AV-BARCLAYS CTR (2,3,4,5,B,D,N,Q,R)",COMBINED,617,40.684359,-73.977666,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+ATLANTIC AV-L,ATLANTIC AV (L),NO,133,40.675345,-73.903097,Brownsville & Ocean Hill ,4007,Brooklyn
+AVENUE H-BQ,"AVENUE H (B,Q)",NO,48,40.62927,-73.961639,Flatbush & Midwood ,4015,Brooklyn
+AVENUE I-F,AVENUE I (F),NO,246,40.625322,-73.976127,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+AVENUE J-BQ,"AVENUE J (B,Q)",NO,49,40.625039,-73.960803,Flatbush & Midwood ,4015,Brooklyn
+AVENUE M-BQ,"AVENUE M (B,Q)",NO,50,40.617618,-73.959399,Flatbush & Midwood ,4015,Brooklyn
+AVENUE N-F,AVENUE N (F),NO,248,40.61514,-73.974197,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+AVENUE P-F,AVENUE P (F),NO,249,40.608944,-73.973022,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+AVENUE U-BQ,"AVENUE U (B,Q)",NO,52,40.5993,-73.955929,"Sheepshead Bay, Gerritsen Beach & Homecrest ",4016,Brooklyn
+AVENUE U-F,AVENUE U (F),NO,251,40.596063,-73.973357,Brighton Beach & Coney Island ,4018,Brooklyn
+AVENUE U-N,AVENUE U (N),NO,78,40.597473,-73.979137,Bensonhurst & Bath Beach ,4017,Brooklyn
+AVENUE X-F,AVENUE X (F),NO,252,40.58962,-73.97425,Brighton Beach & Coney Island ,4018,Brooklyn
+BAY 50 ST-D,BAY 50 ST (D),NO,70,40.588841,-73.983765,Brighton Beach & Coney Island ,4018,Brooklyn
+BAY PKWY-D,BAY PKWY (D),NO,68,40.601875,-73.993728,Bensonhurst & Bath Beach ,4017,Brooklyn
+BAY PKWY-F,BAY PKWY (F),NO,247,40.620769,-73.975264,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+BAY PKWY-N,BAY PKWY (N),NO,76,40.611815,-73.981848,Bensonhurst & Bath Beach ,4017,Brooklyn
+BAY RIDGE AV-R,BAY RIDGE AV (R),NO,36,40.634967,-74.023377,Bay Ridge & Dyker Heights ,4013,Brooklyn
+BAY RIDGE-95 ST-R,BAY RIDGE-95 ST (R),NO,39,40.616622,-74.030876,Bay Ridge & Dyker Heights ,4013,Brooklyn
+BAYCHESTER AV-5,BAYCHESTER AV (5),NO,443,40.878663,-73.838591,"Co-op City, Pelham Bay & Schuylerville ",3703,Bronx
+BEACH 105 ST-AS,"BEACH 105 ST (A,S)",NO,202,40.583209,-73.827559,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 25 ST-A,BEACH 25 ST (A),NO,208,40.600066,-73.761353,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 36 ST-A,BEACH 36 ST (A),NO,207,40.595398,-73.768175,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 44 ST-A,BEACH 44 ST (A),NO,206,40.592943,-73.776013,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 60 ST-A,BEACH 60 ST (A),NO,205,40.592374,-73.788522,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 67 ST-A,BEACH 67 ST (A),NO,204,40.590927,-73.796924,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 90 ST-AS,"BEACH 90 ST (A,S)",NO,200,40.588034,-73.813641,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEACH 98 ST-AS,"BEACH 98 ST (A,S)",NO,201,40.585307,-73.820558,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BEDFORD AV-L,BEDFORD AV (L),NO,120,40.717304,-73.956872,Greenpoint & Williamsburg ,4001,Brooklyn
+BEDFORD PK BLVD-4,BEDFORD PARK BLVD-LEHMAN COLLEGE (4),NAME_ONLY,380,40.873412,-73.890064,"Riverdale, Fieldston & Kingsbridge ",3701,Bronx
+BEDFORD PK BLVD-BD,"BEDFORD PARK BLVD (B,D)",NAME_ONLY,211,40.873244,-73.887138,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+BEDFORD-NOSTRAN-G,BEDFORD-NOSTRAND AVS (G),NAME_ONLY,289,40.689627,-73.953522,Bedford-Stuyvesant ,4003,Brooklyn
+BERGEN ST-23,"BERGEN ST (2,3)",NO,339,40.680829,-73.975098,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+BERGEN ST-FG,"BERGEN ST (F,G)",NO,236,40.686145,-73.990862,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+BEVERLEY ROAD-BQ,"BEVERLEY RD (B,Q)",NO,45,40.644031,-73.964492,Flatbush & Midwood ,4015,Brooklyn
+BEVERLY RD-25,"BEVERLY RD (2,5)",NO,357,40.645098,-73.948959,"East Flatbush, Farragut & Rugby ",4010,Brooklyn
+BLEECKER ST-6DF,"BROADWAY-LAFAYETTE ST-BLEECKER ST (6,B,D,F,M)",DUPLICATED,619,40.725915,-73.994659,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+BOROUGH HALL-2345R,"BOROUGH HALL/COURT ST (2,3,4,5,R)",COMBINED,620,40.692404,-73.990151,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+BOROUGH HALL-R2345,"BOROUGH HALL/COURT ST (2,3,4,5,R)",COMBINED,620,40.692404,-73.990151,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+BOTANIC GARDEN-S2345,BOTANIC GARDEN (S),NAME_ONLY,626,40.670343,-73.959245,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+BOWERY-JZ,"BOWERY (J,Z)",NO,103,40.72028,-73.993915,Chinatown & Lower East Side ,3809,Manhattan
+BOWLING GREEN-45,"BOWLING GREEN (4,5)",NO,414,40.704817,-74.014065,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+BRIARWOOD-EF,"BRIARWOOD (E,F)",NO,258,40.709179,-73.820574,Richmond Hill & Woodhaven ,4111,Queens
+BRIGHTON BEACH-BQ,"BRIGHTON BEACH (B,Q)",NO,55,40.577621,-73.961376,Brighton Beach & Coney Island ,4018,Brooklyn
+BROAD CHANNEL-AS,"BROAD CHANNEL (A,S)",NO,199,40.608382,-73.815925,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+BROAD ST-JZ,"BROAD ST (J,Z)",NO,107,40.706476,-74.011056,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+BROADWAY JCT-ACJLZ,"BROADWAY JUNCTION (A,C,J,L,Z)",COMBINED,621,40.679498,-73.904512,Brownsville & Ocean Hill ,4007,Brooklyn
+BROADWAY-G,BROADWAY (G),NO,286,40.706092,-73.950308,Greenpoint & Williamsburg ,4001,Brooklyn
+BROADWAY-NQW,"BROADWAY (N,Q,W)",NO,4,40.76182,-73.925508,Astoria & Long Island City ,4101,Queens
+BRONX PARK EAST-25,"BRONX PARK EAST (2,5)",NO,425,40.848828,-73.868457,"Belmont, Crotona Park East & East Tremont ",3705,Bronx
+BROOK AV-6,BROOK AV (6),NO,376,40.807566,-73.91924,"Hunts Point, Longwood & Melrose ",3710,Bronx
+BROOKLYN BRIDGE-456JZ,"BROOKLYN BRIDGE-CITY HALL/CHAMBERS ST (4,5,6,J,Z)",DUPLICATED,622,40.713065,-74.004131,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+BUHRE AV-6,BUHRE AV (6),NO,361,40.84681,-73.832569,"Co-op City, Pelham Bay & Schuylerville ",3703,Bronx
+BURKE AV-25,"BURKE AV (2,5)",NO,422,40.871356,-73.867164,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+BURNSIDE AV-4,BURNSIDE AV (4),NO,384,40.853453,-73.907684,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+BUSHWICK AV-L,BUSHWICK AV-ABERDEEN ST (L),NAME_ONLY,131,40.682829,-73.905249,Bushwick ,4002,Brooklyn
+B'WAY-LAFAYETTE-BDFQ6,"BROADWAY-LAFAYETTE ST-BLEECKER ST (6,B,D,F,M)",DUPLICATED,619,40.725915,-73.994659,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CANAL ST-1,CANAL ST (1),NO,325,40.722854,-74.006277,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CANAL ST-ACE,"CANAL ST (A,C,E)",NO,169,40.720824,-74.005229,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CANAL ST-JNQRZ6W,"CANAL ST (J,N,Q,R,Z,6,W)",COMBINED,623,40.718803,-74.000193,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CANARSIE-ROCKAW-L,CANARSIE-ROCKAWAY PKWY (L),NAME_ONLY,138,40.646654,-73.90185,Canarsie & Flatlands ,4009,Brooklyn
+CARROLL ST-FG,"CARROLL ST (F,G)",NO,237,40.680303,-73.995048,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+CASTLE HILL AV-6,CASTLE HILL AV (6),NO,365,40.834255,-73.851222,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+CATHEDRAL PKWY-1,CATHEDRAL PKWY (110 ST) (1),NAME_ONLY,308,40.803967,-73.966847,"Hamilton Heights, Manhattanville & West Harlem ",3802,Manhattan
+CATHEDRAL PKWY-BC,"CATHEDRAL PKWY (110 ST) (B,C)",NAME_ONLY,155,40.800603,-73.958161,Central Harlem ,3803,Manhattan
+CENTRAL AV-M,CENTRAL AV (M),NO,114,40.697857,-73.927397,Bushwick ,4002,Brooklyn
+CENTRAL PK N110-23,"CENTRAL PARK NORTH (110 ST) (2,3)",NAME_ONLY,441,40.799075,-73.951822,Central Harlem ,3803,Manhattan
+CHAMBERS ST-123,"CHAMBERS ST (1,2,3)",NO,327,40.715478,-74.009266,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CHAMBERS ST-ACE23,"CHAMBERS ST-WORLD TRADE CENTER/PARK PLACE/CORTLANDT ST (2,3,A,C,W,R,N,W)",DUPLICATED,624,40.712582,-74.009781,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CHAMBERS ST-JZ456,"BROOKLYN BRIDGE-CITY HALL/CHAMBERS ST (4,5,6,J,Z)",DUPLICATED,622,40.713065,-74.004131,Chinatown & Lower East Side ,3809,Manhattan
+CHAUNCEY ST-JZ,"CHAUNCEY ST (J,Z)",NO,93,40.682893,-73.910456,Brownsville & Ocean Hill ,4007,Brooklyn
+CHURCH AV-25,"CHURCH AV (2,5)",NO,356,40.650843,-73.949575,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+CHURCH AV-BQ,"CHURCH AV (B,Q)",NO,44,40.650527,-73.962982,Flatbush & Midwood ,4015,Brooklyn
+CHURCH AV-FG,"CHURCH AV (F,G)",NO,243,40.644041,-73.979678,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+CITY HALL-NRW,"CITY HALL (N,R,W)",NO,20,40.713282,-74.006978,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+CLARK ST-23,"CLARK ST (2,3)",NO,334,40.697466,-73.993086,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+CLASSON AV-G,CLASSON AV (G),NO,290,40.688873,-73.96007,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+CLEVELAND ST-J,CLEVELAND ST (J),NO,89,40.679947,-73.884639,East New York & Starrett City ,4008,Brooklyn
+CLINTON-WASH AV-C,CLINTON-WASHINGTON AVS (C),NAME_ONLY,177,40.683263,-73.965838,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+CLINTON-WASH AV-G,CLINTON-WASHINGTON AVS (G),NAME_ONLY,291,40.688089,-73.966839,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+CONEY IS-STILLW-DFNQ,"CONEY ISLAND-STILLWELL AV (D,F,N,Q)",NAME_ONLY,58,40.577422,-73.981233,Brighton Beach & Coney Island ,4018,Brooklyn
+CORTELYOU RD-BQ,"CORTELYOU RD (B,Q)",NO,46,40.640927,-73.963891,Flatbush & Midwood ,4015,Brooklyn
+CORTLANDT ST-RNW,"CHAMBERS ST-WORLD TRADE CENTER/PARK PLACE/CORTLANDT ST (2,3,A,C,W,R,N,W)",DUPLICATED,624,40.712582,-74.009781,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+COURT SQ-23 ST-EMG,"COURT SQ-23 ST (7,E,M,G)",DUPLICATED,606,40.747023,-73.945264,Sunnyside & Woodside ,4109,Queens
+COURT SQ-7,"COURT SQ-23 ST (7,E,M,G)",DUPLICATED,606,40.747023,-73.945264,Sunnyside & Woodside ,4109,Queens
+COURT SQ-EMG,"COURT SQ-23 ST (7,E,M,G)",DUPLICATED,606,40.747023,-73.945264,Sunnyside & Woodside ,4109,Queens
+CRESCENT ST-JZ,"CRESCENT ST (J,Z)",NO,87,40.683194,-73.873785,East New York & Starrett City ,4008,Brooklyn
+CROWN HTS-UTICA-34,"CROWN HTS-UTICA AV (3,4)",NAME_ONLY,345,40.668897,-73.932942,Crown Heights North & Prospect Heights ,4006,Brooklyn
+CYPRESS AV-6,CYPRESS AV (6),NO,375,40.805368,-73.914042,"Hunts Point, Longwood & Melrose ",3710,Bronx
+CYPRESS HILLS-J,CYPRESS HILLS (J),NO,86,40.689941,-73.87255,East New York & Starrett City ,4008,Brooklyn
+DEKALB AV-BDNQR,"DEKALB AV (B,D,N,Q,R)",NO,26,40.690635,-73.981824,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+DEKALB AV-L,DEKALB AV (L),NO,127,40.703811,-73.918425,Bushwick ,4002,Brooklyn
+DELANCEY/ESSEX-FJMZ,"DELANCEY ST-ESSEX ST (F,J,M,Z)",COMBINED,625,40.718315,-73.987437,Chinatown & Lower East Side ,3809,Manhattan
+DITMAS AV-F,DITMAS AV (F),NO,244,40.636119,-73.978172,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+DYCKMAN ST-1,DYCKMAN ST (1),NO,299,40.860531,-73.925536,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+DYCKMAN ST-A,DYCKMAN ST (A),NO,144,40.865491,-73.927271,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+E 143/ST MARY'S-6,E 143 ST-ST MARY'S ST (6),NAME_ONLY,374,40.808719,-73.907657,"Hunts Point, Longwood & Melrose ",3710,Bronx
+E 149 ST-6,E 149 ST (6),NO,373,40.812118,-73.904098,"Hunts Point, Longwood & Melrose ",3710,Bronx
+E 180 ST-25,"E 180 ST (2,5)",NO,426,40.841894,-73.873488,"Belmont, Crotona Park East & East Tremont ",3705,Bronx
+EAST 105 ST-L,EAST 105 ST (L),NO,137,40.650573,-73.899485,East New York & Starrett City ,4008,Brooklyn
+EAST BROADWAY-F,EAST BROADWAY (F),NO,234,40.713715,-73.990173,Chinatown & Lower East Side ,3809,Manhattan
+EASTCHSTER/DYRE-5,EASTCHESTER-DYRE AV (5),NAME_ONLY,442,40.8883,-73.830834,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+EASTN PKWY-MUSM-23,"EASTERN PKWY-BROOKLYN MUSEUM (2,3)",NAME_ONLY,341,40.671987,-73.964375,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+ELDER AV-6,ELDER AV (6),NO,369,40.828584,-73.879159,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+ELMHURST AV-MR,"ELMHURST AV (M,R)",NO,266,40.742454,-73.882017,Elmhurst & South Corona ,4107,Queens
+EUCLID AV-AC,"EUCLID AV (A,C)",NO,188,40.675377,-73.872106,East New York & Starrett City ,4008,Brooklyn
+FAR ROCKAWAY-A,FAR ROCKAWAY-MOTT AV (A),NAME_ONLY,209,40.603995,-73.755405,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+FLATBUSH AV-B.C-25,"FLATBUSH AV-BROOKLYN COLLEGE (2,5)",NAME_ONLY,359,40.632836,-73.947642,Flatbush & Midwood ,4015,Brooklyn
+FLUSHING AV-G,FLUSHING AV (G),NO,287,40.700377,-73.950234,Bedford-Stuyvesant ,4003,Brooklyn
+FLUSHING AV-JM,"FLUSHING AV (J,M)",NO,98,40.70026,-73.941126,Bushwick ,4002,Brooklyn
+FLUSHING-MAIN-7,FLUSHING-MAIN ST (7),NAME_ONLY,447,40.7596,-73.83003,"Flushing, Murray Hill & Whitestone ",4103,Queens
+FORDHAM RD-4,FORDHAM RD (4),NO,382,40.862803,-73.901034,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+FORDHAM RD-BD,"FORDHAM RD (B,D)",NO,213,40.861296,-73.897749,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+FOREST AVE-M,FOREST AVE (M),NO,110,40.704423,-73.903077,"Ridgewood, Glendale & Middle Village ",4110,Queens
+FOREST HILLS 71-EFMR,"FOREST HILLS-71 AV (E,F,M,R)",NAME_ONLY,261,40.721691,-73.844521,Forest Hills & Rego Park ,4108,Queens
+FRANKLIN AV-2345S,"FRANKLIN AV-MEDGAR EVERS COLLEGE (2,3,4,5)",NAME_ONLY,627,40.670682,-73.958131,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+FRANKLIN AV-ACS,"FRANKLIN AV-FULTON ST (A,C,S)",NAME_ONLY,627,40.68138,-73.956848,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+FRANKLIN ST-1,FRANKLIN ST (1),NO,326,40.719318,-74.006886,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+FREEMAN ST-25,"FREEMAN ST (2,5)",NO,429,40.829993,-73.891865,"Belmont, Crotona Park East & East Tremont ",3705,Bronx
+FRESH POND RD-M,FRESH POND RD (M),NO,109,40.706186,-73.895877,"Ridgewood, Glendale & Middle Village ",4110,Queens
+FT HAMILTON PKY-D,FORT HAMILTON PKWY (D),NAME_ONLY,60,40.640914,-73.994304,Sunset Park & Windsor Terrace ,4012,Brooklyn
+FT HAMILTON PKY-FG,"FORT HAMILTON PKWY (F,G)",NAME_ONLY,242,40.650782,-73.975776,Sunset Park & Windsor Terrace ,4012,Brooklyn
+FT HAMILTON PKY-N,FORT HAMILTON PKWY (N),NAME_ONLY,72,40.631386,-74.005351,"Borough Park, Kensington & Ocean Parkway ",4014,Brooklyn
+FULTON ST-2345ACJZ,"FULTON ST (2,3,4,5,A,C,J,Z)",COMBINED,628,40.710374,-74.007582,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+FULTON ST-ACJZ2345,"FULTON ST (2,3,4,5,A,C,J,Z)",COMBINED,628,40.710374,-74.007582,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+FULTON ST-G,FULTON ST (G),NO,292,40.687119,-73.975375,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+GATES AV-JZ,"GATES AV (J,Z)",NO,95,40.68963,-73.92227,Bushwick ,4002,Brooklyn
+GRAHAM AV-L,GRAHAM AV (L),NO,122,40.714565,-73.944053,Greenpoint & Williamsburg ,4001,Brooklyn
+GRAND ARMY PLAZ-23,"GRAND ARMY PLAZA (2,3)",NAME_ONLY,340,40.675235,-73.971046,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+GRAND ST-BD,"GRAND ST (B,D)",NO,231,40.718267,-73.993753,Chinatown & Lower East Side ,3809,Manhattan
+GRAND ST-L,GRAND ST (L),NO,123,40.711926,-73.94067,Greenpoint & Williamsburg ,4001,Brooklyn
+GRAND-NEWTOWN-MR,"GRAND AV-NEWTOWN (M,R)",NAME_ONLY,265,40.737015,-73.877223,Elmhurst & South Corona ,4107,Queens
+GRANT AV-A,GRANT AV (A),NO,189,40.677044,-73.86505,East New York & Starrett City ,4008,Brooklyn
+GRD CNTRL-42 ST-4567S,"GRAND CENTRAL-42 ST (4,5,6,7,S)",COMBINED,610,40.752769,-73.979189,"Murray Hill, Gramercy & Stuyvesant Town ",3808,Manhattan
+GREENPOINT AV-G,GREENPOINT AV (G),NO,283,40.731352,-73.954449,Greenpoint & Williamsburg ,4001,Brooklyn
+GUN HILL RD-25,"GUN HILL RD (2,5)",NO,421,40.87785,-73.866256,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+GUN HILL RD-5,GUN HILL RD (5),NO,444,40.869526,-73.846384,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+HALSEY ST-J,HALSEY ST (J),NO,94,40.68637,-73.916559,Bushwick ,4002,Brooklyn
+HALSEY ST-L,HALSEY ST (L),NO,129,40.695602,-73.904084,"Ridgewood, Glendale & Middle Village ",4110,Queens
+HARLEM 148 ST-3,HARLEM 148 ST (3),NO,436,40.82388,-73.93647,Central Harlem ,3803,Manhattan
+HEWES ST-JM,"HEWES ST (J,M)",NO,100,40.70687,-73.953431,Greenpoint & Williamsburg ,4001,Brooklyn
+HIGH ST-AC,"HIGH ST (A,C)",NO,173,40.699337,-73.990531,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+HOUSTON ST-1,HOUSTON ST (1),NO,324,40.728251,-74.005367,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+HOWARD BCH JFK-A,HOWARD BEACH-JFK AIRPORT (A),NAME_ONLY,198,40.660476,-73.830301,"Queens Village, Cambria Heights & Rosedale ",4105,Queens
+HOYT ST-23,"HOYT ST (2,3)",NO,336,40.690545,-73.985065,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+HOYT-SCHER-ACG,"HOYT-SCHERMERHORN STS (A,C,G)",NAME_ONLY,175,40.688484,-73.985001,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+HUNTERS PT AV-7,HUNTERS POINT AV (7),NAME_ONLY,463,40.742216,-73.948916,Sunnyside & Woodside ,4109,Queens
+HUNTS POINT AV-6,HUNTS POINT AV (6),NO,371,40.820948,-73.890549,"Hunts Point, Longwood & Melrose ",3710,Bronx
+INTERVALE AV-25,"INTERVALE AV (2,5)",NO,431,40.822181,-73.896736,"Hunts Point, Longwood & Melrose ",3710,Bronx
+INWOOD-207 ST-A,INWOOD-207 ST (A),NO,143,40.868072,-73.919899,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+JACKSON AV-25,"JACKSON AV (2,5)",NO,433,40.81649,-73.907807,"Hunts Point, Longwood & Melrose ",3710,Bronx
+JAMAICA 179 ST-F,JAMAICA 179 ST (F),NO,254,40.712646,-73.783817,"Jamaica, Hollis & St. Albans ",4112,Queens
+JAMAICA CENTER-EJZ,"JAMAICA CENTER-PARSONS/ARCHER (E,J,Z)",NAME_ONLY,278,40.702147,-73.801109,"Jamaica, Hollis & St. Albans ",4112,Queens
+JAMAICA VAN WK-E,JAMAICA-VAN WYCK (E),NO,280,40.702566,-73.816859,Richmond Hill & Woodhaven ,4111,Queens
+JAY ST-METROTEC-ACF,"JAY ST-METROTECH (A,C,F,R)",DUPLICATED,636,40.692338,-73.987342,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+JAY ST-METROTEC-R,"JAY ST-METROTECH (A,C,F,R)",DUPLICATED,636,40.692338,-73.987342,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+JEFFERSON ST-L,JEFFERSON ST (L),NO,126,40.706607,-73.922913,Bushwick ,4002,Brooklyn
+JFK JAMAICA CT1-E,"SUTPHIN BLVD-ARCHER AV-JFK AIRPORT (E,J,Z)",DUPLICATED,,40.700486,-73.807969,"Jamaica, Hollis & St. Albans ",4112,Queens
+JKSN HT-ROOSVLT-EFMR7,"74 ST-BROADWAY-JACKSON HTS-ROOSEVELT AV (7,E,F,M,R)",DUPLICATED,616,40.746848,-73.891394,Elmhurst & South Corona ,4107,Queens
+JUNCTION BLVD-7,JUNCTION BLVD (7),NO,451,40.749145,-73.869527,Elmhurst & South Corona ,4107,Queens
+JUNIUS ST-3,JUNIUS ST (3),NO,349,40.663515,-73.902447,Brownsville & Ocean Hill ,4007,Brooklyn
+KEW GARDENS-EF,"KEW GARDENS-UNION TPKE (E,F)",NAME_ONLY,259,40.714441,-73.831008,Richmond Hill & Woodhaven ,4111,Queens
+KINGS HWY-BQ,"KINGS HWY (B,Q)",NO,51,40.60867,-73.957734,"Sheepshead Bay, Gerritsen Beach & Homecrest ",4016,Brooklyn
+KINGS HWY-F,KINGS HWY (F),NO,250,40.603217,-73.972361,"Sheepshead Bay, Gerritsen Beach & Homecrest ",4016,Brooklyn
+KINGS HWY-N,KINGS HWY (N),NO,77,40.603923,-73.980353,Bensonhurst & Bath Beach ,4017,Brooklyn
+KINGSBRIDGE RD-4,KINGSBRIDGE RD (4),NO,381,40.86776,-73.897174,"Riverdale, Fieldston & Kingsbridge ",3701,Bronx
+KINGSBRIDGE RD-BD,"KINGSBRIDGE RD (B,D)",NO,212,40.866978,-73.893509,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+KINGSTON AV-3,KINGSTON AV (3),NO,344,40.669399,-73.942161,Crown Heights North & Prospect Heights ,4006,Brooklyn
+KINGSTON-THROOP-C,KINGSTON-THROOP AVS (C),NAME_ONLY,180,40.679921,-73.940858,Bedford-Stuyvesant ,4003,Brooklyn
+KNICKERBOCKER-M,KNICKERBOCKER AV (M),NAME_ONLY,113,40.698664,-73.919711,Bushwick ,4002,Brooklyn
+KOSCIUSZKO ST-J,KOSCIUSZKO ST (J),NO,96,40.693342,-73.928814,Bushwick ,4002,Brooklyn
+LAFAYETTE AV-C,LAFAYETTE AV (C),NO,176,40.686113,-73.973946,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+LEXINGTON AV/53-EM6,"LEXINGTON AV/53 ST-51 ST (6,E,M)",DUPLICATED,612,40.757552,-73.969055,"Murray Hill, Gramercy & Stuyvesant Town ",3808,Manhattan
+LEXINGTON AV/63-F,LEXINGTON AV/63 ST (F),NAME_ONLY,223,40.764629,-73.966113,Upper East Side ,3805,Manhattan
+LIBERTY AV-C,LIBERTY AV (C),NO,185,40.674542,-73.896548,East New York & Starrett City ,4008,Brooklyn
+LIVONIA AV-L,LIVONIA AV (L),NO,135,40.664038,-73.900571,Brownsville & Ocean Hill ,4007,Brooklyn
+LONGWOOD AV-6,LONGWOOD AV (6),NO,372,40.816104,-73.896435,"Hunts Point, Longwood & Melrose ",3710,Bronx
+LORIMER ST-JM,"LORIMER ST (J,M)",NO,99,40.703869,-73.947408,Greenpoint & Williamsburg ,4001,Brooklyn
+LORIMER ST-LG,"METROPOLITAN AV/LORIMER ST (L,G)",DUPLICATED,629,40.714063,-73.950275,Greenpoint & Williamsburg ,4001,Brooklyn
+MARBLE HILL-225-1,MARBLE HILL-225 (1),NO,296,40.874561,-73.909831,"Washington Heights, Inwood & Marble Hill ",3801,Manhattan
+MARCY AV-JMZ,"MARCY AV (J,M,Z)",NO,101,40.708359,-73.957757,Greenpoint & Williamsburg ,4001,Brooklyn
+METROPOLITAN AV-GL,"METROPOLITAN AV/LORIMER ST (L,G)",DUPLICATED,629,40.714063,-73.950275,Greenpoint & Williamsburg ,4001,Brooklyn
+METROPOLITAN AV-M,MIDDLE VILLAGE-METROPOLITAN AV (M),NAME_ONLY,108,40.711396,-73.889601,"Ridgewood, Glendale & Middle Village ",4110,Queens
+METS-WILLETS PT-7,METS-WILLETS POINT (7),NAME_ONLY,448,40.754622,-73.845625,Elmhurst & South Corona ,4107,Queens
+MIDDLETOWN RD-6,MIDDLETOWN RD (6),NO,362,40.843863,-73.836322,"Co-op City, Pelham Bay & Schuylerville ",3703,Bronx
+MONTROSE AV-L,MONTROSE AV (L),NO,124,40.707739,-73.93985,Bushwick ,4002,Brooklyn
+MORGAN AV-L,MORGAN AV (L),NO,125,40.706152,-73.933147,Bushwick ,4002,Brooklyn
+MORISN AV/SNDVW-6,MORRISON AV-SOUNDVIEW (6),NAME_ONLY,368,40.829521,-73.874516,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+MORRIS PARK-5,MORRIS PARK (5),NO,446,40.854364,-73.860495,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+MOSHOLU PKWY-4,MOSHOLU PKWY (4),NO,379,40.87975,-73.884655,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+MT EDEN AV-4,MT EDEN AV (4),NO,386,40.844434,-73.914685,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+MYRTLE AV-JMZ,"MYRTLE AV (J,M,Z)",NO,97,40.697207,-73.935657,Bedford-Stuyvesant ,4003,Brooklyn
+MYRTLE-WILLOUGH-G,MYRTLE-WILLOUGHBY AVS (G),NAME_ONLY,288,40.694568,-73.949046,Bedford-Stuyvesant ,4003,Brooklyn
+MYRTLE-WYCKOFF-LM,"MYRTLE-WYCKOFF AVS (L,M)",COMBINED,630,40.69943,-73.912385,Bushwick ,4002,Brooklyn
+NASSAU AV-G,NASSAU AV (G),NO,284,40.724635,-73.951277,Greenpoint & Williamsburg ,4001,Brooklyn
+NECK RD-BQ,"NECK RD (B,Q)",NO,53,40.595246,-73.955161,"Sheepshead Bay, Gerritsen Beach & Homecrest ",4016,Brooklyn
+NEPTUNE AV-F,NEPTUNE AV (F),NO,253,40.581011,-73.974574,Brighton Beach & Coney Island ,4018,Brooklyn
+NEREID AV-25,"NEREID AV (2,5)",NO,417,40.898379,-73.854376,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+NEVINS ST-2345,"NEVINS ST (2,3,4,5)",NO,337,40.688246,-73.980492,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+NEW LOTS AV-3,NEW LOTS AV (3),NO,352,40.666235,-73.884079,East New York & Starrett City ,4008,Brooklyn
+NEW LOTS-L,NEW LOTS AV (L),NAME_ONLY,136,40.658733,-73.899232,Brownsville & Ocean Hill ,4007,Brooklyn
+NEW UTRECHT AV-ND,"62 ST/NEW UTRECHT AV (D,N)",COMBINED,615,40.624842,-73.996353,Bensonhurst & Bath Beach ,4017,Brooklyn
+NEWKIRK AV-25,"NEWKIRK AV (2,5)",NO,358,40.639967,-73.948411,"East Flatbush, Farragut & Rugby ",4010,Brooklyn
+NEWKIRK PLAZA-BQ,"NEWKIRK PLAZA (B,Q)",NO,47,40.635082,-73.962793,Flatbush & Midwood ,4015,Brooklyn
+NORTHERN BLVD-MR,"NORTHERN BLVD (M,R)",NO,269,40.752885,-73.906006,Sunnyside & Woodside ,4109,Queens
+NORWOOD 205 ST-D,NORWOOD 205 ST (D),NO,210,40.874811,-73.878855,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+NORWOOD AV-JZ,"NORWOOD AV (J,Z)",NO,88,40.68141,-73.880039,East New York & Starrett City ,4008,Brooklyn
+NOSTRAND AV-3,NOSTRAND AV (3),NO,343,40.669847,-73.950466,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+NOSTRAND AV-AC,"NOSTRAND AV (A,C)",NO,179,40.680438,-73.950426,Crown Heights North & Prospect Heights ,4006,Brooklyn
+OCEAN PKWY-Q,OCEAN PKWY (Q),NO,56,40.576312,-73.968501,Brighton Beach & Coney Island ,4018,Brooklyn
+OZONE PK LEFFRT-A,OZONE PARK-LEFFERTS BLVD (A),NAME_ONLY,195,40.685951,-73.825798,Howard Beach & Ozone Park ,4113,Queens
+PARK PLACE-23ACE,"CHAMBERS ST-WORLD TRADE CENTER/PARK PLACE/CORTLANDT ST (2,3,A,C,W,R,N,W)",DUPLICATED,624,40.712582,-74.009781,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+PARK PLACE-S,PARK PL (S),NAME_ONLY,141,40.674772,-73.957624,Crown Heights North & Prospect Heights ,4006,Brooklyn
+PARKCHESTER-6,PARKCHESTER (6),NO,366,40.833226,-73.860816,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+PARKSIDE AV-BQ,"PARKSIDE AV (B,Q)",NO,43,40.655292,-73.961495,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+PARSONS BLVD-F,PARSONS BLVD (F),NO,256,40.707564,-73.803326,"Briarwood, Fresh Meadows & Hillcrest ",4106,Queens
+PELHAM BAY PARK-6,PELHAM BAY PARK (6),NO,360,40.852462,-73.828121,"Co-op City, Pelham Bay & Schuylerville ",3703,Bronx
+PELHAM PKWY-25,"PELHAM PKWY (2,5)",NO,424,40.857192,-73.867615,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+PELHAM PKWY-5,PELHAM PKWY (5),NO,445,40.858985,-73.855359,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+PENNSYLVANIA AV-3,PENNSYLVANIA AV (3),NO,350,40.664635,-73.894895,Brownsville & Ocean Hill ,4007,Brooklyn
+PRESIDENT ST-25,"PRESIDENT ST-MEDGAR EVERS COLLEGE (2,5)",NAME_ONLY,353,40.667883,-73.950683,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+PRINCE ST-NRW,"PRINCE ST (N,R,W)",NO,17,40.724329,-73.997702,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+PROSPECT AV-25,"PROSPECT AV (2,5)",NO,432,40.819585,-73.90177,"Hunts Point, Longwood & Melrose ",3710,Bronx
+PROSPECT AV-R,PROSPECT AV (R),NO,30,40.665414,-73.992872,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+PROSPECT PARK-BQS,"PROSPECT PARK (B,Q,S)",NO,42,40.661614,-73.962246,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+QUEENS PLAZA-EMR,"QUEENS PLAZA (E,M,R)",NO,273,40.748973,-73.937243,Astoria & Long Island City ,4101,Queens
+QUEENSBORO PLZ-7NQW,"QUEENSBORO PLAZA (7,N,Q,W)",COMBINED,461,40.750582,-73.940202,Sunnyside & Woodside ,4109,Queens
+RALPH AV-C,RALPH AV (C),NO,182,40.678822,-73.920786,Brownsville & Ocean Hill ,4007,Brooklyn
+RECTOR ST-1,RECTOR ST (1),NO,329,40.707513,-74.013783,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+RECTOR ST-NRW,"RECTOR ST (N,R,W)",NO,22,40.70722,-74.013342,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+ROCKAWAY AV-3,ROCKAWAY AV (3),NO,348,40.662549,-73.908946,Brownsville & Ocean Hill ,4007,Brooklyn
+ROCKAWAY AV-C,ROCKAWAY AV (C),NO,183,40.67834,-73.911946,Brownsville & Ocean Hill ,4007,Brooklyn
+ROCKAWAY BLVD-A,ROCKAWAY BLVD (A),NO,192,40.680429,-73.843853,Howard Beach & Ozone Park ,4113,Queens
+ROCKAWAY PARK B-AS,"ROCKAWAY PARK-BEACH 116 ST (A,S)",NAME_ONLY,203,40.580903,-73.835592,"Far Rockaway, Breezy Point & Broad Channel ",4114,Queens
+ROOSEVELT ISLND-F,ROOSEVELT ISLAND (F),NAME_ONLY,222,40.759145,-73.95326,Upper East Side ,3805,Manhattan
+SARATOGA AV-3,SARATOGA AV (3),NO,347,40.661453,-73.916327,Brownsville & Ocean Hill ,4007,Brooklyn
+SENECA AVE-M,SENECA AVE (M),NO,111,40.702762,-73.90774,"Ridgewood, Glendale & Middle Village ",4110,Queens
+SHEEPSHEAD BAY-BQ,"SHEEPSHEAD BAY (B,Q)",NO,54,40.586896,-73.954155,"Sheepshead Bay, Gerritsen Beach & Homecrest ",4016,Brooklyn
+SHEPHERD AV-C,SHEPHERD AV (C),NO,187,40.67413,-73.88075,East New York & Starrett City ,4008,Brooklyn
+SIMPSON ST-25,"SIMPSON ST (2,5)",NO,430,40.824073,-73.893064,"Hunts Point, Longwood & Melrose ",3710,Bronx
+SMITH-9 ST-FG,"SMITH-9 STS (F,G)",NAME_ONLY,238,40.67358,-73.995959,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+SOUTH FERRY-1RW,"SOUTH FERRY/WHITEHALL ST (1,R,W)",DUPLICATED,635,40.703087,-74.012994,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+SPRING ST-6,SPRING ST (6),NO,409,40.722301,-73.997141,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+SPRING ST-CE,"SPRING ST (C,E)",NO,168,40.726227,-74.003739,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+ST LAWRENCE AV-6,ST LAWRENCE AV (6),NO,367,40.831509,-73.867618,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+STEINWAY ST-MR,"STEINWAY ST (M,R)",NO,271,40.756879,-73.92074,Astoria & Long Island City ,4101,Queens
+STERLING ST-25,"STERLING ST (2,5)",NO,354,40.662742,-73.95085,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+SUTPHIN BLVD-F,SUTPHIN BLVD (F),NO,257,40.70546,-73.810708,"Jamaica, Hollis & St. Albans ",4112,Queens
+SUTPHIN-ARCHER-EJZ,"SUTPHIN BLVD-ARCHER AV-JFK AIRPORT (E,J,Z)",DUPLICATED,279,40.700486,-73.807969,"Jamaica, Hollis & St. Albans ",4112,Queens
+SUTTER AV-L,SUTTER AV (L),NO,134,40.669367,-73.901975,Brownsville & Ocean Hill ,4007,Brooklyn
+SUTTER AV-RUTLD-3,SUTTER AV-RUTLAND RD (3),NAME_ONLY,346,40.664717,-73.92261,Brownsville & Ocean Hill ,4007,Brooklyn
+TIMES SQ-42 ST-1237ACENQRS,"TIMES SQ-42 ST/PORT AUTHORITY (1,2,3,7,A,C,E,N,Q,R,S,W)",DUPLICATED,611,40.755477,-73.987691,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+TIMES SQ-42 ST-1237ACENQRSW,"TIMES SQ-42 ST/PORT AUTHORITY (1,2,3,7,A,C,E,N,Q,R,S,W)",DUPLICATED,611,40.755477,-73.987691,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+TIMES SQ-42 ST-ACENQRS1237W,"TIMES SQ-42 ST/PORT AUTHORITY (1,2,3,7,A,C,E,N,Q,R,S,W)",DUPLICATED,611,40.755477,-73.987691,"Chelsea, Clinton & Midtown Business District ",3807,Manhattan
+TREMONT AV-BD,"TREMONT AV (B,D)",NO,215,40.85041,-73.905227,"Morris Heights, Fordham South & Mount Hope ",3707,Bronx
+UNION ST-R,UNION ST (R),NO,28,40.677316,-73.98311,"Park Slope, Carroll Gardens & Red Hook ",4005,Brooklyn
+UTICA AV-AC,"UTICA AV (A,C)",NO,181,40.679364,-73.930729,Crown Heights North & Prospect Heights ,4006,Brooklyn
+V.CORTLANDT PK-1,VAN CORTLANDT PARK-242 ST (1),NAME_ONLY,293,40.889248,-73.898583,"Riverdale, Fieldston & Kingsbridge ",3701,Bronx
+VAN SICLEN AV-3,VAN SICLEN AV (3),NO,351,40.665449,-73.889395,East New York & Starrett City ,4008,Brooklyn
+VAN SICLEN AVE-C,VAN SICLEN AV (C),NAME_ONLY,186,40.67271,-73.890358,East New York & Starrett City ,4008,Brooklyn
+VAN SICLEN AV-JZ,"VAN SICLEN AV (J,Z)",NO,90,40.678024,-73.891688,East New York & Starrett City ,4008,Brooklyn
+VERNON-JACKSON-7,VERNON BLVD-JACKSON AV (7),NAME_ONLY,464,40.742626,-73.953581,Sunnyside & Woodside ,4109,Queens
+W 4 ST-WASH SQ-ABCDEFM,"W 4 ST-WASH SQ (A,B,C,D,E,F,M)",NO,167,40.732338,-74.000495,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+W 8 ST-AQUARIUM-FQ,"W 8 ST-NY AQUARIUM (F,Q)",NAME_ONLY,57,40.576127,-73.975939,Brighton Beach & Coney Island ,4018,Brooklyn
+WAKEFIELD/241-2,WAKEFIELD-241 ST (2),NAME_ONLY,416,40.903125,-73.85062,"Wakefield, Williamsbridge & Woodlawn ",3702,Bronx
+WALL ST-23,"WALL ST (2,3)",NO,333,40.706821,-74.0091,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+WALL ST-45,"WALL ST (4,5)",NO,413,40.707557,-74.011862,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+WEST FARMS SQ-25,"WEST FARMS SQ-E TREMONT AV (2,5)",NAME_ONLY,427,40.840295,-73.880049,"Belmont, Crotona Park East & East Tremont ",3705,Bronx
+WESTCHESTER SQ-6,WESTCHESTER SQ-E TREMONT AV (6),NAME_ONLY,363,40.839892,-73.842952,"Pelham Parkway, Morris Park & Laconia ",3704,Bronx
+WHITEHALL S-FRY-R1W,"SOUTH FERRY/WHITEHALL ST (1,R,W)",DUPLICATED,635,40.703087,-74.012994,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+WHITLOCK AV-6,WHITLOCK AV (6),NO,370,40.826525,-73.886283,"Hunts Point, Longwood & Melrose ",3710,Bronx
+WILSON AV-L,WILSON AV (L),NO,130,40.688764,-73.904046,Bushwick ,4002,Brooklyn
+WINTHROP ST-25,"WINTHROP ST (2,5)",NO,355,40.656652,-73.9502,"Crown Heights South, Prospect Lefferts & Wingate ",4011,Brooklyn
+WOODHAVEN BLVD-JZ,"WOODHAVEN BLVD (J,Z)",NO,83,40.693879,-73.851576,Richmond Hill & Woodhaven ,4111,Queens
+WOODHAVEN BLVD-MR,"WOODHAVEN BLVD (M,R)",NO,264,40.733106,-73.869229,Elmhurst & South Corona ,4107,Queens
+WOODLAWN-4,WOODLAWN (4),NO,378,40.886037,-73.878751,"Bedford Park, Fordham North & Norwood ",3706,Bronx
+WORLD TRADE CTR-ACE23,"CHAMBERS ST-WORLD TRADE CENTER/PARK PLACE/CORTLANDT ST (2,3,A,C,W,R,N,W)",DUPLICATED,624,40.712582,-74.009781,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+WTC-CORTLANDT-1,WTC-CORTLANDT (1),NO,328,40.711835,-74.012188,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan
+YORK ST-F,YORK ST (F),NO,235,40.701397,-73.986751,Brooklyn Heights & Fort Greene ,4004,Brooklyn
+ZEREGA AV-6,ZEREGA AV (6),NO,364,40.836488,-73.847036,"Castle Hill, Clason Point & Parkchester ",3709,Bronx
+CHRISTOPHER ST-1,CHRISTOPHER ST-SHERIDAN SQ (1),NAME_ONLY,323,40.733422,-74.002906,"Battery Park City, Greenwich Village & Soho ",3810,Manhattan

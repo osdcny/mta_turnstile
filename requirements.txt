@@ -1,0 +1,6 @@
+###### Requirements without Version Specifiers ######`
+bs4
+pandas
+numpy
+scipy
+requests
